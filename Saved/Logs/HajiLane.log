@@ -1599,3 +1599,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.14-06.06.52:865][480]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.14-06.06.52:865][480]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CollaborativeViewer/Maps/CollaborativeViewer_P_BuiltData.CollaborativeViewer_P_BuiltData
 [2021.05.14-06.06.52:865][480]LogContentValidation: Display: Validating World /Game/CollaborativeViewer/Maps/CollaborativeViewer_P.CollaborativeViewer_P
+[2021.05.14-06.14.29:533][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HillTree_11)
+[2021.05.14-06.14.35:234][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.05.14-06.14.35:242][844]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/CollaborativeViewer_PC75902ED48FFA14B50A3D1BF29482FF4.tmp' to 'D:/Unreal Engine/HajiLane/Content/CollaborativeViewer/Maps/CollaborativeViewer_P.umap'
+[2021.05.14-06.14.35:245][844]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/CollaborativeViewer_P_BuiltData71E8BF20459D23CC13FB6FAAB2052240.tmp' to 'D:/Unreal Engine/HajiLane/Content/CollaborativeViewer/Maps/CollaborativeViewer_P_BuiltData.uasset'
+[2021.05.14-06.14.35:252][844]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.14-06.14.35:252][844]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CollaborativeViewer/Maps/CollaborativeViewer_P_BuiltData.CollaborativeViewer_P_BuiltData
+[2021.05.14-06.14.35:252][844]LogContentValidation: Display: Validating World /Game/CollaborativeViewer/Maps/CollaborativeViewer_P.CollaborativeViewer_P
