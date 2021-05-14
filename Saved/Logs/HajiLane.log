@@ -1581,3 +1581,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.14-05.56.35:613][142]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 3
 [2021.05.14-05.56.35:623][143]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 2
 [2021.05.14-05.56.35:681][148]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 1
+[2021.05.14-06.01.44:669][843]LogSlate: Window 'Plugins' being destroyed
+[2021.05.14-06.01.44:674][843]LogSlate: Window 'Plugins' being destroyed
+[2021.05.14-06.01.44:674][843]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.05.14-06.06.41:092][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HillTree_9)
+[2021.05.14-06.06.48:481][ 29]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.14-06.06.48:513][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.05.14-06.06.48:523][ 29]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/CollaborativeViewer_PEA3B8582436FB1D8C8D3BD9FEB6C92FF.tmp' to 'D:/Unreal Engine/HajiLane/Content/CollaborativeViewer/Maps/CollaborativeViewer_P.umap'
+[2021.05.14-06.06.48:527][ 29]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/CollaborativeViewer_P_BuiltData61EE28AB427C5CDDE424E7B444DD5F6E.tmp' to 'D:/Unreal Engine/HajiLane/Content/CollaborativeViewer/Maps/CollaborativeViewer_P_BuiltData.uasset'
+[2021.05.14-06.06.48:538][ 29]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.14-06.06.48:538][ 29]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CollaborativeViewer/Maps/CollaborativeViewer_P_BuiltData.CollaborativeViewer_P_BuiltData
+[2021.05.14-06.06.48:538][ 29]LogContentValidation: Display: Validating World /Game/CollaborativeViewer/Maps/CollaborativeViewer_P.CollaborativeViewer_P
+[2021.05.14-06.06.51:454][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Terrain)
+[2021.05.14-06.06.52:845][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.05.14-06.06.52:853][480]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/CollaborativeViewer_P7D4ADB054BF2ECCF0B14BFB58FC24D3F.tmp' to 'D:/Unreal Engine/HajiLane/Content/CollaborativeViewer/Maps/CollaborativeViewer_P.umap'
+[2021.05.14-06.06.52:856][480]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/CollaborativeViewer_P_BuiltData7A42172E48EF83F82B5513AACB9D509B.tmp' to 'D:/Unreal Engine/HajiLane/Content/CollaborativeViewer/Maps/CollaborativeViewer_P_BuiltData.uasset'
+[2021.05.14-06.06.52:865][480]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.14-06.06.52:865][480]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CollaborativeViewer/Maps/CollaborativeViewer_P_BuiltData.CollaborativeViewer_P_BuiltData
+[2021.05.14-06.06.52:865][480]LogContentValidation: Display: Validating World /Game/CollaborativeViewer/Maps/CollaborativeViewer_P.CollaborativeViewer_P
