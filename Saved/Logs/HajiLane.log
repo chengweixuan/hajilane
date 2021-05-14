@@ -1,0 +1,1583 @@
+﻿Log file open, 05/14/21 13:55:23
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: HajiLane
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.185664
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HDRIBackdrop
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SunPosition
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DataprepEditor
+LogPluginManager: Mounting plugin AxFImporter
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin DatasmithIFCImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: Null
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [Null]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=paxis2 -epicuserid=7087c301b6e545e4bd4866677fe3eb40 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.14-05.55.23:714][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.14-05.55.23:714][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.14-05.55.23:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Engine.ini]
+[2021.05.14-05.55.23:714][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.14-05.55.23:714][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2021.05.14-05.55.23:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Engine.ini]
+[2021.05.14-05.55.23:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Engine.ini]
+[2021.05.14-05.55.23:714][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.14-05.55.23:714][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.14-05.55.23:714][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.14-05.55.23:714][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.14-05.55.23:714][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.14-05.55.23:714][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.14-05.55.23:714][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.14-05.55.23:714][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.14-05.55.23:714][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.14-05.55.23:714][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.14-05.55.23:715][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.14-05.55.23:715][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.14-05.55.23:715][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.14-05.55.23:715][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.14-05.55.23:715][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Engine.ini]
+[2021.05.14-05.55.23:715][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.14-05.55.23:715][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.14-05.55.23:715][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.14-05.55.23:715][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.14-05.55.23:715][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.14-05.55.23:715][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.14-05.55.23:715][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.14-05.55.23:715][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.14-05.55.23:715][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.14-05.55.23:715][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.14-05.55.23:715][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.14-05.55.23:715][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.14-05.55.23:715][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.14-05.55.23:715][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.14-05.55.23:715][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Engine.ini]
+[2021.05.14-05.55.23:715][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Engine.ini]
+[2021.05.14-05.55.23:719][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Scalability.ini]
+[2021.05.14-05.55.23:719][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.14-05.55.23:719][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.14-05.55.23:719][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Scalability.ini]
+[2021.05.14-05.55.23:719][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.14-05.55.23:719][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Scalability.ini]
+[2021.05.14-05.55.23:719][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.14-05.55.23:719][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.14-05.55.23:719][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.14-05.55.23:719][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.14-05.55.23:719][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.14-05.55.23:719][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.14-05.55.23:719][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Scalability.ini]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Scalability.ini]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Scalability.ini]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Scalability.ini]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Scalability.ini]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.14-05.55.23:720][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.14-05.55.23:721][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.14-05.55.23:721][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.14-05.55.23:721][  0]LogHAL: Display: Platform has ~ 64 GB [68614889472 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.14-05.55.23:721][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.14-05.55.23:721][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Scalability.ini]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Scalability.ini]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Scalability.ini]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Scalability.ini]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Scalability.ini]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Scalability.ini]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.14-05.55.23:721][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Scalability.ini]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Scalability.ini]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.14-05.55.23:722][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Engine.ini]
+[2021.05.14-05.55.23:722][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Engine/HajiLane/Saved/Config/Windows/Editor.ini]
+[2021.05.14-05.55.23:722][  0]LogInit: Computer: YJP-WS-0001
+[2021.05.14-05.55.23:722][  0]LogInit: User: Administrator
+[2021.05.14-05.55.23:722][  0]LogInit: CPU Page size=4096, Cores=10
+[2021.05.14-05.55.23:722][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.14-05.55.23:722][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2021.05.14-05.55.23:722][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.14-05.55.23:722][  0]LogMemory: Process Physical Memory: 145.19 MB used, 145.20 MB peak
+[2021.05.14-05.55.23:722][  0]LogMemory: Process Virtual Memory: 129.40 MB used, 129.40 MB peak
+[2021.05.14-05.55.23:722][  0]LogMemory: Physical Memory: 34528.50 MB used,  30907.76 MB free, 65436.26 MB total
+[2021.05.14-05.55.23:722][  0]LogMemory: Virtual Memory: 134189944.00 MB used,  27786.83 MB free, 134217728.00 MB total
+[2021.05.14-05.55.23:725][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.14-05.55.23:757][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.14-05.55.23:758][  0]LogInit: Using OS detected language (en-US).
+[2021.05.14-05.55.23:758][  0]LogInit: Using OS detected locale (en-US).
+[2021.05.14-05.55.23:759][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.05.14-05.55.23:878][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.14-05.55.23:886][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.14-05.55.23:896][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.14-05.55.23:896][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.14-05.55.23:998][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.14-05.55.23:998][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.14-05.55.23:998][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.14-05.55.23:998][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.14-05.55.24:083][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2021.05.14-05.55.24:083][  0]LogD3D11RHI:       8043/0/32718 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.05.14-05.55.24:085][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.14-05.55.24:085][  0]LogD3D11RHI:       0/0/32718 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.14-05.55.24:085][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.14-05.55.24:090][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.14-05.55.24:090][  0]LogD3D11RHI:     GPU DeviceId: 0x2484 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.14-05.55.24:090][  0]LogWindows: EnumDisplayDevices:
+[2021.05.14-05.55.24:090][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:1 D:1)
+[2021.05.14-05.55.24:090][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2021.05.14-05.55.24:091][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2021.05.14-05.55.24:091][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2021.05.14-05.55.24:091][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.14-05.55.24:091][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2021.05.14-05.55.24:091][  0]LogD3D11RHI:   Driver Version: 466.27 (internal:27.21.14.6627, unified:466.27)
+[2021.05.14-05.55.24:091][  0]LogD3D11RHI:      Driver Date: 4-23-2021
+[2021.05.14-05.55.24:091][  0]LogRHI: Texture pool is 5630 MB (70% of 8043 MB)
+[2021.05.14-05.55.24:154][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.14-05.55.24:154][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.14-05.55.24:154][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.14-05.55.24:171][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.14-05.55.24:172][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.14-05.55.24:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.14-05.55.24:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.14-05.55.24:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.14-05.55.24:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.14-05.55.24:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.14-05.55.24:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.14-05.55.24:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.14-05.55.24:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.14-05.55.24:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.14-05.55.24:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.14-05.55.24:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.14-05.55.24:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.14-05.55.24:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.14-05.55.24:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.14-05.55.24:420][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.14-05.55.24:425][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.14-05.55.24:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.14-05.55.24:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.14-05.55.24:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.14-05.55.24:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.14-05.55.24:464][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.14-05.55.24:464][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.14-05.55.24:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.14-05.55.24:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.14-05.55.24:480][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.14-05.55.24:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.14-05.55.24:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.14-05.55.24:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.14-05.55.24:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.14-05.55.24:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.14-05.55.24:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.14-05.55.24:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.14-05.55.24:519][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.14-05.55.24:523][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.14-05.55.24:562][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.14-05.55.24:562][  0]LogShaderCompilers: Guid format shader working directory is 28 characters bigger than the processId version (D:/Unreal Engine/HajiLane/Intermediate/Shaders/WorkingDirectory/17032/).
+[2021.05.14-05.55.24:562][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/46D231A445E8C3315E0BE9A0D6DD4371/'.
+[2021.05.14-05.55.24:562][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.14-05.55.24:562][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.14-05.55.25:123][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.14-05.55.25:161][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.14-05.55.25:161][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.14-05.55.25:162][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal Engine/HajiLane/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.14-05.55.25:162][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.14-05.55.25:162][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal Engine/HajiLane/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.14-05.55.25:162][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.14-05.55.25:171][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.14-05.55.25:171][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.14-05.55.25:171][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.14-05.55.25:174][  0]LogDerivedDataCache: Speed tests for C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2021.05.14-05.55.25:175][  0]LogDerivedDataCache: Display: Performance to C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1347.18MBs, RandomWriteSpeed=375.90MBs. Assigned SpeedClass 'Local'
+[2021.05.14-05.55.25:175][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.14-05.55.25:175][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.14-05.55.25:175][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.14-05.55.25:210][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.14-05.55.25:211][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.14-05.55.25:226][  0]LogAssetRegistry: FAssetRegistry took 0.0017 seconds to start up
+[2021.05.14-05.55.25:397][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.14-05.55.25:397][  0]LogInit: Active device profile: [0000022CFF281F00][0000022CFED032C0 49] Windows
+[2021.05.14-05.55.25:397][  0]LogInit: Profiles: [0000022CFF281F00][0000022CFED032C0 49] Windows, [0000022CFF0D3F00][0000022CFE563440 49] WindowsNoEditor, [0000022CFF0A6100][0000022CFED25580 49] WindowsServer, [0000022CFF0D2100][0000022C8100B6C0 49] WindowsClient, [0000022CFF0A4500][0000022C8103B800 49] IOS, [0000022CFF0D0600][0000022C8103F940 49] iPadAir, [0000022CFF0A7D00][0000022C81047AC0 49] iPadAir2, [0000022CFEEB5B00][0000022C811E40C0 49] IPadPro, [0000022CFEEB5C00][0000022C811D4100 49] iPadAir3, [0000022CFF0A5A00][0000022C811EE280 49] iPadAir4, [0000022CFEEB7400][0000022C8121A400 49] iPadMini2, [0000022CFF0A6900][0000022C81236580 49] iPadMini3, [0000022CFEEB4E00][0000022C8128C700 49] iPadMini4, [0000022CFF0A4D00][0000022C8137C880 49] iPadMini5, [0000022CFF0D2400][0000022C81384B40 49] iPhone6, [0000022CFF0D2300][0000022C81380B80 49] iPodTouch6, [0000022CFEEB4900][0000022C8138CE40 49] iPhone7, [0000022CFEEB4A00][0000022C81388E80 49] iPodTouch7, [0000022CFF0D0F00][0000022C81391000 49] iPhone5S, [0000022CFEEB4500][0000022C81395180 49] iPhone6Plus, [0000022CFF0D1900][0000022C81399300 49] iPhone6S, [0000022CFEEB7C00][0000022C8139D480 49] iPhone6SPlus, [0000022CFF0D2A00][0000022C813A1600 49] iPhone7Plus, [0000022CFEEB5500][0000022C81043740 49] iPhoneSE, [0000022CFF0D0100][0000022C813A5880 49] iPhone8, [0000022CFEEB4D00][0000022C813A99C0 49] iPhone8Plus, [0000022CFF0D0A00][0000022C813B1B40 49] iPhoneX, [0000022CFEEB6000][0000022C813B5CC0 49] iPhoneXS, [0000022CFF0D3200][0000022C813B8180 49] iPhoneXSMax, [0000022CFEEB6F00][0000022C813C0300 49] iPhoneXR, [0000022CFF0D2700][0000022C813C4480 49] iPhone11, [0000022CFEEB4600][0000022CFDF88600 49] iPhone11Pro, [0000022CFF0D1100][0000022CFDF8C780 49] iPhone11ProMax, [0000022CFEEB7800][0000022CFDF90900 49] iPhoneSE2, [0000022CFF0D1300][0000022CFDF94A80 49] iPhone12Mini, [0000022CFEEB7E00][0000022CFDF98C00 49] iPhone12, [0000022CFF0D0700][0000022CFDF9CD80 49] iPhone12Pro, [0000022CFEEB6100][0000022CFDF50F00 49] iPhone12ProMax, [0000022CFF0D3C00][0000022CFDF55080 49] iPadPro105, [0000022CFEEB4200][0000022C813DD200 49] iPadPro129, [0000022CFF0D3B00][0000022C813F3380 49] iPadPro97, [0000022CFF280700][0000022C813F7500 49] iPadPro2_129, [0000022CFF0D2F00][0000022C813FB680 49] iPad5, [0000022CFF281300][0000022C813AD7C0 49] iPad6, [0000022CFF0D3D00][0000022CFEABF900 49] iPad7, [0000022CFF281C00][0000022C81EA9A40 49] iPad8, [0000022CFF0D1200][0000022C81EB1B80 49] iPadPro11, [0000022CFF280300][0000022C81F25D00 49] iPadPro2_11, [0000022CFF0D2B00][0000022C81F281C0 49] iPadPro3_129, [0000022CFF281600][0000022C81F2C340 49] iPadPro4_129, [0000022CFF0D0E00][0000022C81F5C4C0 49] AppleTV, [0000022CFF280800][0000022C8182C640 49] AppleTV4K, [0000022CFF0D0800][0000022C818307C0 49] TVOS, [0000022CFF281200][0000022C81834940 49] Mac, [0000022CFF0D0200][0000022C81838AC0 49] MacClient, [0000022CFF280B00][0000022C8183CC40 49] MacNoEditor, [0000022CFF0D1400][0000022C81840DC0 49] MacServer, [0000022CFF280F00][0000022C81844F40 49] Linux, [0000022CFF0D2E00][0000022C818490C0 49] LinuxAArch64, [0000022CFF280E00][0000022C8184D240 49] LinuxNoEditor, [0000022CFF0D3A00][0000022C818513C0 49] LinuxAArch64NoEditor, [0000022CFF280200][0000022C81855540 49] LinuxClient, [0000022CFF0D1700][0000022C818596C0 49] LinuxAArch64Client, [0000022CFF282200][0000022C81F21800 49] LinuxServer, [0000022CFF0D0C00][0000022C8185D940 49] LinuxAArch64Server, [0000022CFF281100][0000022C81861A80 49] Android, [0000022CFF0D1D00][0000022C81865BC0 49] Android_Low, [0000022CFF280100][0000022C8186DD40 49] Android_Mid, [0000022CFF0D1000][0000022C81870200 49] Android_High, [0000022CFF0A7900][0000022C81874380 49] Android_Default, [0000022CFEEB4700][0000022C81878500 49] Android_Adreno4xx, [0000022CFF0A5F00][0000022C8187C680 49] Android_Adreno5xx_Low, [0000022CFEEB5600][0000022C81880800 49] Android_Adreno5xx, [0000022CFF0A7B00][0000022C81884980 49] Android_Adreno6xx, [0000022CFEEB7D00][0000022C81888B00 49] Android_Adreno6xx_Vulkan, [0000022CFF0A5300][0000022C8188CC80 49] Android_Mali_T6xx, [0000022CFEEB6D00][0000022C81890E00 49] Android_Mali_T7xx, [0000022CFF0A5000][0000022C81894F80 49] Android_Mali_T8xx, [0000022CFF0D3900][0000022C81899100 49] Android_Mali_G71, [0000022CFF0A4200][0000022C8189D280 49] Android_Mali_G72, [0000022CFF0D3E00][0000022C818A1400 49] Android_Mali_G72_Vulkan, [0000022CFF0A4C00][0000022C818A5580 49] Android_Mali_G76, [0000022CFF0D1A00][0000022C818A9700 49] Android_Mali_G76_Vulkan, [0000022CFF0A4800][0000022C818AD880 49] Android_Mali_G77, [0000022CFF0D1B00][0000022C818699C0 49] Android_Mali_G77_Vulkan, [0000022CFF0A4900][0000022C818B1B00 49] Android_Vulkan_SM5, [0000022CFF0D3800][0000022C818B5C40 49] Android_PowerVR_G6xxx, [0000022CFF0A4F00][0000022C818BC100 49] Android_PowerVR_GT7xxx, [0000022CFF0D1F00][0000022C818C0280 49] Android_PowerVR_GE8xxx, [0000022CFF0A4A00][0000022C818C4400 49] Android_PowerVR_GM9xxx, [0000022CFF0D0500][0000022C818C8580 49] Android_PowerVR_GM9xxx_Vulkan, [0000022CFF0A5600][0000022C818CC700 49] Android_TegraK1, [0000022CFF0D2600][0000022C818D0880 49] Android_Unknown_Vulkan, [0000022CFF0A7500][0000022C818D4A00 49] Lumin, [0000022CFF0D3400][0000022C818D8B80 49] Lumin_Desktop, [0000022CFF0A5900][0000022C818DCD00 49] HoloLens, 
+[2021.05.14-05.55.25:484][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.14-05.55.25:484][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.14-05.55.25:484][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.14-05.55.25:484][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.14-05.55.25:484][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.14-05.55.25:494][  0]LogNetVersion: HajiLane 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2603464204)
+[2021.05.14-05.55.25:777][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.14-05.55.25:800][  0]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.022773 seconds
+[2021.05.14-05.55.25:804][  0]LogUObjectArray: 16740 objects as part of root set at end of initial load.
+[2021.05.14-05.55.25:804][  0]LogUObjectAllocator: 4184192 out of 0 bytes used by permanent object pool.
+[2021.05.14-05.55.25:804][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.14-05.55.25:954][  0]LogPython: Using Python 3.7.7
+[2021.05.14-05.55.26:505][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.14-05.55.26:513][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.14-05.55.26:617][  0]SourceControl: Source control is disabled
+[2021.05.14-05.55.26:617][  0]SourceControl: Source control is disabled
+[2021.05.14-05.55.26:623][  0]SourceControl: Source control is disabled
+[2021.05.14-05.55.26:625][  0]SourceControl: Source control is disabled
+[2021.05.14-05.55.26:631][  0]SourceControl: Source control is disabled
+[2021.05.14-05.55.26:635][  0]LogUProjectInfo: Found projects:
+[2021.05.14-05.55.26:806][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.14-05.55.26:829][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.14-05.55.26:829][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.14-05.55.28:437][  0]LogOcInput: OculusInput pre-init called
+[2021.05.14-05.55.28:447][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.14-05.55.28:447][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.14-05.55.28:452][  0]LogCollectionManager: Loaded 0 collections in 0.000939 seconds
+[2021.05.14-05.55.28:461][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Engine/HajiLane/Saved/Collections/' took 0.00s
+[2021.05.14-05.55.28:461][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Engine/HajiLane/Content/Developers/Administrator/Collections/' took 0.00s
+[2021.05.14-05.55.28:461][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Engine/HajiLane/Content/Collections/' took 0.00s
+[2021.05.14-05.55.28:689][  0]LogEngine: Initializing Engine...
+[2021.05.14-05.55.28:689][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.14-05.55.28:690][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.14-05.55.28:769][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.14-05.55.28:776][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.14-05.55.28:783][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.14-05.55.28:786][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.14-05.55.28:786][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.14-05.55.28:786][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.14-05.55.28:786][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.14-05.55.28:786][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.14-05.55.28:786][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.14-05.55.28:786][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.14-05.55.28:786][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.14-05.55.28:786][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.14-05.55.28:786][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.14-05.55.28:786][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.14-05.55.28:786][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.14-05.55.28:795][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.14-05.55.28:795][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.14-05.55.28:822][  0]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.05.14-05.55.28:824][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.14-05.55.28:825][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.14-05.55.28:825][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.14-05.55.28:825][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.14-05.55.28:825][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.14-05.55.28:825][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.14-05.55.28:826][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.14-05.55.28:826][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.14-05.55.28:826][  0]LogInit: FAudioDevice initialized.
+[2021.05.14-05.55.28:826][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.14-05.55.28:826][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.14-05.55.28:859][  0]LogDerivedDataCache: Saved boot cache 0.03s 82MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.14-05.55.28:861][  0]LogInit: Texture streaming: Enabled
+[2021.05.14-05.55.28:869][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.14-05.55.28:872][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.14-05.55.28:872][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.14-05.55.28:875][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.14-05.55.28:887][  0]LogInit: Transaction tracking system initialized
+[2021.05.14-05.55.28:901][  0]BlueprintLog: New page: Editor Load
+[2021.05.14-05.55.28:955][  0]LocalizationService: Localization service is disabled
+[2021.05.14-05.55.28:970][  0]TimingProfiler: Initialize
+[2021.05.14-05.55.28:970][  0]TimingProfiler: OnSessionChanged
+[2021.05.14-05.55.28:970][  0]LoadingProfiler: Initialize
+[2021.05.14-05.55.28:970][  0]LoadingProfiler: OnSessionChanged
+[2021.05.14-05.55.28:970][  0]NetworkingProfiler: Initialize
+[2021.05.14-05.55.28:970][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.14-05.55.28:970][  0]MemoryProfiler: Initialize
+[2021.05.14-05.55.28:970][  0]MemoryProfiler: OnSessionChanged
+[2021.05.14-05.55.29:066][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.14-05.55.29:066][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.14-05.55.29:092][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Engine/HajiLane/Content/' took 0.00s
+[2021.05.14-05.55.30:197][  0]LogMaterial: Display: Missing cached shader map for material HDRI_Projection, compiling. 
+[2021.05.14-05.55.30:243][  0]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 21
+[2021.05.14-05.55.30:243][  0]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 19
+[2021.05.14-05.55.30:243][  0]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 17
+[2021.05.14-05.55.30:243][  0]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 15
+[2021.05.14-05.55.30:243][  0]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 13
+[2021.05.14-05.55.30:243][  0]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 11
+[2021.05.14-05.55.30:243][  0]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 9
+[2021.05.14-05.55.30:243][  0]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 7
+[2021.05.14-05.55.30:243][  0]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 5
+[2021.05.14-05.55.30:243][  0]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 3
+[2021.05.14-05.55.30:243][  0]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 1
+[2021.05.14-05.55.30:335][  0]LogMaterial: Display: Missing cached shader map for material M_ArrowColor, compiling. 
+[2021.05.14-05.55.30:369][  0]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 12
+[2021.05.14-05.55.30:370][  0]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 11
+[2021.05.14-05.55.30:370][  0]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 10
+[2021.05.14-05.55.30:370][  0]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 9
+[2021.05.14-05.55.30:370][  0]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 8
+[2021.05.14-05.55.30:370][  0]LogShaderCompilers: Display: Worker (17/17): shaders left to compile 7
+[2021.05.14-05.55.30:520][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.14-05.55.30:527][  0]SourceControl: Source control is disabled
+[2021.05.14-05.55.30:528][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.412
+[2021.05.14-05.55.30:533][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.26/FeaturePacks/StarterContent.upack)
+[2021.05.14-05.55.30:534][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.14-05.55.30:535][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.30:535][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.14-05.55.30:541][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.05.14-05.55.30:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.05.14-05.55.30:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.05.14-05.55.30:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.05.14-05.55.30:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.05.14-05.55.30:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.05.14-05.55.30:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.05.14-05.55.30:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.05.14-05.55.30:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.05.14-05.55.30:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.05.14-05.55.30:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.05.14-05.55.30:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.05.14-05.55.30:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.05.14-05.55.30:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.05.14-05.55.30:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.05.14-05.55.30:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.05.14-05.55.30:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.05.14-05.55.30:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.05.14-05.55.30:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Fire01.uasset"
+[2021.05.14-05.55.30:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.05.14-05.55.30:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.05.14-05.55.30:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.05.14-05.55.30:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Light01.uasset"
+[2021.05.14-05.55.30:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.05.14-05.55.30:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Light02.uasset"
+[2021.05.14-05.55.30:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.05.14-05.55.30:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.05.14-05.55.30:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.05.14-05.55.30:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.05.14-05.55.30:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.05.14-05.55.30:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.05.14-05.55.30:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.05.14-05.55.30:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.05.14-05.55.30:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.05.14-05.55.30:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Steam01.uasset"
+[2021.05.14-05.55.30:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.05.14-05.55.30:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.05.14-05.55.30:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.05.14-05.55.30:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.05.14-05.55.30:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.05.14-05.55.30:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.05.14-05.55.30:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.05.14-05.55.30:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.05.14-05.55.30:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.05.14-05.55.30:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.05.14-05.55.30:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.05.14-05.55.30:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.05.14-05.55.30:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.05.14-05.55.30:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.05.14-05.55.30:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.05.14-05.55.30:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.05.14-05.55.30:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.05.14-05.55.30:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.05.14-05.55.30:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.05.14-05.55.30:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.05.14-05.55.30:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.05.14-05.55.30:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.05.14-05.55.30:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Maps/StarterMap.umap"
+[2021.05.14-05.55.30:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.05.14-05.55.30:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.05.14-05.55.30:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.05.14-05.55.30:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.05.14-05.55.30:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.05.14-05.55.30:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.05.14-05.55.30:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.05.14-05.55.30:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.05.14-05.55.30:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.05.14-05.55.30:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.05.14-05.55.30:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.05.14-05.55.30:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.05.14-05.55.30:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.05.14-05.55.30:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.05.14-05.55.30:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.05.14-05.55.30:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.05.14-05.55.30:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.05.14-05.55.30:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.05.14-05.55.30:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.05.14-05.55.30:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.05.14-05.55.30:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.05.14-05.55.30:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.05.14-05.55.30:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.05.14-05.55.30:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.05.14-05.55.30:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.05.14-05.55.30:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.05.14-05.55.30:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.05.14-05.55.30:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.05.14-05.55.30:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.05.14-05.55.30:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.05.14-05.55.30:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.05.14-05.55.30:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.05.14-05.55.30:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.05.14-05.55.30:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.05.14-05.55.30:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.05.14-05.55.30:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.05.14-05.55.30:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.05.14-05.55.30:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.05.14-05.55.30:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.05.14-05.55.30:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.05.14-05.55.30:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.05.14-05.55.30:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.05.14-05.55.30:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.05.14-05.55.30:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.05.14-05.55.30:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.05.14-05.55.30:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.05.14-05.55.30:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.05.14-05.55.30:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.05.14-05.55.30:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.05.14-05.55.31:123][  0]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 6
+[2021.05.14-05.55.31:123][  0]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 5
+[2021.05.14-05.55.31:123][  0]LogShaderCompilers: Display: Worker (17/17): shaders left to compile 4
+[2021.05.14-05.55.31:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.05.14-05.55.31:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.05.14-05.55.31:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.05.14-05.55.31:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.05.14-05.55.31:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.05.14-05.55.31:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.05.14-05.55.31:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.05.14-05.55.31:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.05.14-05.55.31:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.05.14-05.55.31:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.05.14-05.55.31:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.05.14-05.55.31:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.05.14-05.55.31:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.05.14-05.55.31:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.05.14-05.55.31:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.05.14-05.55.31:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.05.14-05.55.31:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/SM_Door.uasset"
+[2021.05.14-05.55.31:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.05.14-05.55.31:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.05.14-05.55.31:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.05.14-05.55.31:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.05.14-05.55.31:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.05.14-05.55.31:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.05.14-05.55.31:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.05.14-05.55.31:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.05.14-05.55.31:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.05.14-05.55.31:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.05.14-05.55.31:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.05.14-05.55.31:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.05.14-05.55.31:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.05.14-05.55.31:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.05.14-05.55.31:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.05.14-05.55.31:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.05.14-05.55.31:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.05.14-05.55.31:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.05.14-05.55.31:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.05.14-05.55.31:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.05.14-05.55.31:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.05.14-05.55.31:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.05.14-05.55.31:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.05.14-05.55.31:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.05.14-05.55.31:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.05.14-05.55.31:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.05.14-05.55.31:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.05.14-05.55.31:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.05.14-05.55.31:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.05.14-05.55.31:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.05.14-05.55.31:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.05.14-05.55.31:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.05.14-05.55.31:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.05.14-05.55.31:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.05.14-05.55.31:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.05.14-05.55.31:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.05.14-05.55.31:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.05.14-05.55.31:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.05.14-05.55.31:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.05.14-05.55.31:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.05.14-05.55.31:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.05.14-05.55.31:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.05.14-05.55.31:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.05.14-05.55.31:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.05.14-05.55.31:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.05.14-05.55.31:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.05.14-05.55.31:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.05.14-05.55.31:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.05.14-05.55.31:265][  0]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 3
+[2021.05.14-05.55.31:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.05.14-05.55.31:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.05.14-05.55.31:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.05.14-05.55.31:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.05.14-05.55.31:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.05.14-05.55.31:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.05.14-05.55.31:343][  0]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 2
+[2021.05.14-05.55.31:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.05.14-05.55.31:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.05.14-05.55.31:366][  0]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 1
+[2021.05.14-05.55.31:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.05.14-05.55.31:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.05.14-05.55.31:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.05.14-05.55.31:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.05.14-05.55.31:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.05.14-05.55.31:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.05.14-05.55.31:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.05.14-05.55.31:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.05.14-05.55.31:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.05.14-05.55.31:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.05.14-05.55.31:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.05.14-05.55.31:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.05.14-05.55.31:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.05.14-05.55.31:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.05.14-05.55.31:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.05.14-05.55.31:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.05.14-05.55.31:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.05.14-05.55.31:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.05.14-05.55.31:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.05.14-05.55.31:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.05.14-05.55.31:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.05.14-05.55.31:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.05.14-05.55.31:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.05.14-05.55.31:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.05.14-05.55.31:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.05.14-05.55.31:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.05.14-05.55.31:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.05.14-05.55.31:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.05.14-05.55.31:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.05.14-05.55.31:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.05.14-05.55.31:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.05.14-05.55.31:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.05.14-05.55.31:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.05.14-05.55.31:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.05.14-05.55.31:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.05.14-05.55.31:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.05.14-05.55.31:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.05.14-05.55.31:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.05.14-05.55.31:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.05.14-05.55.31:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.05.14-05.55.31:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.05.14-05.55.31:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.05.14-05.55.31:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.05.14-05.55.31:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.05.14-05.55.31:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.05.14-05.55.31:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.05.14-05.55.31:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.05.14-05.55.31:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.05.14-05.55.31:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.05.14-05.55.31:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.05.14-05.55.31:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.05.14-05.55.31:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.05.14-05.55.31:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.05.14-05.55.31:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.05.14-05.55.31:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.05.14-05.55.31:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.05.14-05.55.31:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.05.14-05.55.31:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.05.14-05.55.31:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.05.14-05.55.31:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.05.14-05.55.31:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.05.14-05.55.31:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.05.14-05.55.31:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.05.14-05.55.31:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.05.14-05.55.31:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.05.14-05.55.31:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.05.14-05.55.31:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.05.14-05.55.31:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.05.14-05.55.31:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.05.14-05.55.31:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.05.14-05.55.31:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.05.14-05.55.31:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.05.14-05.55.31:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.05.14-05.55.31:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.05.14-05.55.31:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.05.14-05.55.31:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.05.14-05.55.31:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.05.14-05.55.31:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.05.14-05.55.31:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.05.14-05.55.31:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.05.14-05.55.31:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.05.14-05.55.31:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.05.14-05.55.31:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.05.14-05.55.31:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.05.14-05.55.31:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.05.14-05.55.31:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.05.14-05.55.31:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.05.14-05.55.31:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.05.14-05.55.31:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.05.14-05.55.31:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.05.14-05.55.31:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/Unreal Engine/HajiLane/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.05.14-05.55.31:972][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.05.14-05.55.32:287][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="D:/Unreal Engine/HajiLane/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2021.05.14-05.55.32:291][  0]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/Floor_400x4008789AC4B48ACB03868C0108A5CB1CBEF.tmp' to 'D:/Unreal Engine/HajiLane/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.05.14-05.55.32:292][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.05.14-05.55.32:292][  0]Cmd: MAP LOAD FILE="D:/Unreal Engine/HajiLane/Content/CollaborativeViewer/Maps/CollaborativeViewer_P.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.14-05.55.32:292][  0]LightingResults: New page: Lighting Build
+[2021.05.14-05.55.32:293][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.14-05.55.32:293][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.14-05.55.32:294][  0]MapCheck: New page: Map Check
+[2021.05.14-05.55.32:294][  0]LightingResults: New page: Lighting Build
+[2021.05.14-05.55.32:300][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: SaveGameIcon (BGRA8, 40X39)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: IconBookmark (BGRA8, 100X100)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: TopRounded (BGRA8, 64X32)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: ButtonRoundOutlined_Hud (BGRA8, 256X64)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: Arrow (BGRA8, 33X17)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: Button (BGRA8, 143X143)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: TopRounded_4 (BGRA8, 64X4)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: Fly (BGRA8, 64X64)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: PointerArrow (BGRA8, 49X31)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: IconExplode (BGRA8, 100X100)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: ButtonRounded_Hud (BGRA8, 256X64)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: Avatar_Eyes (AutoDXT, 512X256)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: IconXray (BGRA8, 100X100)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: orbitTarget_Tex (AutoDXT, 256X256)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: VR (AutoDXT, 64X64)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: Orbit (AutoDXT, 64X64)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: IconX (BGRA8, 20X22)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: IconSpeaking (BGRA8, 19X15)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: Walk (AutoDXT, 64X64)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: IconHeadset (BGRA8, 51X51)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: SideRounded (BGRA8, 16X64)
+[2021.05.14-05.55.33:435][  0]LogTexture: Display: Building textures: Transform_Menu_Icon (BGRA8, 100X100)
+[2021.05.14-05.55.33:436][  0]LogTexture: Display: Building textures: IconMeasure (BGRA8, 100X100)
+[2021.05.14-05.55.33:436][  0]LogTexture: Display: Building textures: IconAnnotation (BGRA8, 100X100)
+[2021.05.14-05.55.33:436][  0]LogTexture: Display: Building textures: PhotoInButton (BGRA8, 256X256)
+[2021.05.14-05.55.33:436][  0]LogTexture: Display: Building textures: PhotoOutButton (BGRA8, 256X256)
+[2021.05.14-05.55.33:436][  0]LogTexture: Display: Building textures: IconSnapshot (BGRA8, 100X100)
+[2021.05.14-05.55.33:436][  0]LogMaterial: Display: Missing cached shader map for material M_CharacterColor, compiling. 
+[2021.05.14-05.55.33:471][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Avatar_CollabViewer...
+[2021.05.14-05.55.34:964][  0]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 64
+[2021.05.14-05.55.34:964][  0]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 60
+[2021.05.14-05.55.34:964][  0]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 56
+[2021.05.14-05.55.34:964][  0]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 52
+[2021.05.14-05.55.34:964][  0]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 48
+[2021.05.14-05.55.34:964][  0]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 44
+[2021.05.14-05.55.34:964][  0]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 40
+[2021.05.14-05.55.34:964][  0]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 36
+[2021.05.14-05.55.34:964][  0]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 32
+[2021.05.14-05.55.34:964][  0]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 28
+[2021.05.14-05.55.34:964][  0]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 24
+[2021.05.14-05.55.34:964][  0]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 20
+[2021.05.14-05.55.34:964][  0]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 16
+[2021.05.14-05.55.34:964][  0]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 12
+[2021.05.14-05.55.34:964][  0]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 8
+[2021.05.14-05.55.34:964][  0]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 4
+[2021.05.14-05.55.35:371][  0]LogSkeletalMesh: Section 0: Material=0, 70768 triangles
+[2021.05.14-05.55.35:472][  0]LogSkeletalMesh: Built Skeletal Mesh [2.00s] /Game/CollaborativeViewer/Blueprints/Pawn/Avatar/Mesh/SK_Avatar_CollabViewer.SK_Avatar_CollabViewer
+[2021.05.14-05.55.35:476][  0]LogStaticMesh: Building static mesh LaserMesh...
+[2021.05.14-05.55.35:479][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/Blueprints/Pawn/Avatar/Mesh/LaserMesh.LaserMesh
+[2021.05.14-05.55.35:481][  0]LogMaterial: Display: Missing cached shader map for material M_Laser, compiling. 
+[2021.05.14-05.55.35:495][  0]LogMaterial: Display: Missing cached shader map for material M_LaserPointerTarget, compiling. 
+[2021.05.14-05.55.35:499][  0]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 28
+[2021.05.14-05.55.35:499][  0]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 26
+[2021.05.14-05.55.35:499][  0]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 24
+[2021.05.14-05.55.35:499][  0]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 22
+[2021.05.14-05.55.35:499][  0]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 20
+[2021.05.14-05.55.35:499][  0]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 18
+[2021.05.14-05.55.35:499][  0]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 16
+[2021.05.14-05.55.35:499][  0]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 14
+[2021.05.14-05.55.35:499][  0]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 12
+[2021.05.14-05.55.35:499][  0]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 10
+[2021.05.14-05.55.35:499][  0]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 8
+[2021.05.14-05.55.35:499][  0]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 6
+[2021.05.14-05.55.35:499][  0]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 4
+[2021.05.14-05.55.35:499][  0]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 2
+[2021.05.14-05.55.35:499][  0]LogStaticMesh: Building static mesh cylinder...
+[2021.05.14-05.55.35:500][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/Blueprints/Commands/Dimension/Meshes/cylinder.cylinder
+[2021.05.14-05.55.35:500][  0]LogMaterial: Display: Missing cached shader map for material dim_mesh_master, compiling. 
+[2021.05.14-05.55.35:506][  0]LogStaticMesh: Building static mesh cone...
+[2021.05.14-05.55.35:509][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/Blueprints/Commands/Dimension/Meshes/cone.cone
+[2021.05.14-05.55.35:511][  0]LogMaterial: Display: Missing cached shader map for material M_WidgetPassThrough_Size, compiling. 
+[2021.05.14-05.55.35:515][  0]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 26
+[2021.05.14-05.55.35:515][  0]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 24
+[2021.05.14-05.55.35:515][  0]LogShaderCompilers: Display: Worker (17/17): shaders left to compile 22
+[2021.05.14-05.55.35:515][  0]LogMaterial: Display: Missing cached shader map for material dim_mesh_master_Head, compiling. 
+[2021.05.14-05.55.35:528][  0]LogStaticMesh: Building static mesh UE_Template_Avatar_Body...
+[2021.05.14-05.55.35:740][  0]LogStaticMesh: Built static mesh [0.21s] /Game/CollaborativeViewer/Blueprints/Pawn/Avatar/Mesh/UE_Template_Avatar_Body.UE_Template_Avatar_Body
+[2021.05.14-05.55.35:766][  0]LogStaticMesh: Building static mesh UE_Template_Avatar_Head_A...
+[2021.05.14-05.55.35:935][  0]LogStaticMesh: Built static mesh [0.17s] /Game/CollaborativeViewer/Blueprints/Pawn/Avatar/Mesh/UE_Template_Avatar_Head_A.UE_Template_Avatar_Head_A
+[2021.05.14-05.55.35:957][  0]LogMaterial: Display: Missing cached shader map for material M_CharacterColor_Opaque, compiling. 
+[2021.05.14-05.55.35:962][  0]LogMaterial: Display: Missing cached shader map for material M_Xray, compiling. 
+[2021.05.14-05.55.35:969][  0]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 48
+[2021.05.14-05.55.35:969][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Hand...
+[2021.05.14-05.55.36:528][  0]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 59
+[2021.05.14-05.55.36:528][  0]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 55
+[2021.05.14-05.55.36:528][  0]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 51
+[2021.05.14-05.55.36:528][  0]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 47
+[2021.05.14-05.55.36:528][  0]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 44
+[2021.05.14-05.55.36:528][  0]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 41
+[2021.05.14-05.55.36:528][  0]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 38
+[2021.05.14-05.55.36:528][  0]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 35
+[2021.05.14-05.55.36:528][  0]LogShaderCompilers: Display: Worker (17/17): shaders left to compile 32
+[2021.05.14-05.55.36:528][  0]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 30
+[2021.05.14-05.55.36:751][  0]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 28
+[2021.05.14-05.55.36:751][  0]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 26
+[2021.05.14-05.55.36:751][  0]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 24
+[2021.05.14-05.55.36:751][  0]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 22
+[2021.05.14-05.55.36:751][  0]LogSkeletalMesh: Section 0: Material=0, 25664 triangles
+[2021.05.14-05.55.36:868][  0]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 20
+[2021.05.14-05.55.36:868][  0]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 18
+[2021.05.14-05.55.36:868][  0]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 16
+[2021.05.14-05.55.36:868][  0]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 15
+[2021.05.14-05.55.36:868][  0]LogSkeletalMesh: Built Skeletal Mesh [0.90s] /Game/CollaborativeViewer/Blueprints/Pawn/Avatar/Mesh/SK_Hand.SK_Hand
+[2021.05.14-05.55.36:868][  0]LogStaticMesh: Building static mesh BeamMesh...
+[2021.05.14-05.55.36:874][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/Blueprints/Pawn/Avatar/Mesh/BeamMesh.BeamMesh
+[2021.05.14-05.55.36:875][  0]LogStaticMesh: Building static mesh BeaconDirection...
+[2021.05.14-05.55.36:879][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/Blueprints/Pawn/Avatar/Mesh/BeaconDirection.BeaconDirection
+[2021.05.14-05.55.36:891][  0]LogMaterial: Display: Missing cached shader map for material M_TeleportArrow, compiling. 
+[2021.05.14-05.55.36:947][  0]LogMaterial: Display: Missing cached shader map for material M_SplineArcMat, compiling. 
+[2021.05.14-05.55.36:959][  0]LogMaterial: Display: Missing cached shader map for material M_AvatarGlowRing, compiling. 
+[2021.05.14-05.55.36:966][  0]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2021.05.14-05.55.36:992][  0]LogShaderCompilers: Display: Worker (17/17): shaders left to compile 84
+[2021.05.14-05.55.36:992][  0]LogMaterial: Display: Missing cached shader map for material M_Widget3DPassThrough, compiling. 
+[2021.05.14-05.55.37:002][  0]LogMaterial: Display: Missing cached shader map for material M_CharacterColor, compiling. 
+[2021.05.14-05.55.37:040][  0]LogMaterial: Display: Missing cached shader map for material dim_anchors, compiling. 
+[2021.05.14-05.55.37:052][  0]LogMaterial: Display: Missing cached shader map for material M_Widget3DPassThrough_TS, compiling. 
+[2021.05.14-05.55.37:061][  0]LogMaterial: Display: Missing cached shader map for material MI_Frame_02, compiling. 
+[2021.05.14-05.55.37:071][  0]LogMaterial: Display: Missing cached shader map for material M_Widget3DPassThrough, compiling. 
+[2021.05.14-05.55.37:081][  0]LogMaterial: Display: Missing cached shader map for material AnnotationMasterMat, compiling. 
+[2021.05.14-05.55.37:092][  0]LogMaterial: Display: Missing cached shader map for material MI_Photo, compiling. 
+[2021.05.14-05.55.37:112][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'CollaborativeViewer_P'.
+[2021.05.14-05.55.37:114][  0]LogAIModule: Creating AISystem for world CollaborativeViewer_P
+[2021.05.14-05.55.37:190][  0]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 281
+[2021.05.14-05.55.37:190][  0]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 271
+[2021.05.14-05.55.37:191][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/CollaborativeViewer/SampleScene/SampleLevel) is flushing async loading
+[2021.05.14-05.55.37:191][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.05.14-05.55.37:325][  0]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 261
+[2021.05.14-05.55.37:325][  0]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 251
+[2021.05.14-05.55.37:325][  0]LogMaterial: Display: Missing cached shader map for material White, compiling. 
+[2021.05.14-05.55.37:341][  0]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 241
+[2021.05.14-05.55.37:341][  0]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 252
+[2021.05.14-05.55.37:341][  0]LogMaterial: Display: Missing cached shader map for material Terrain, compiling. 
+[2021.05.14-05.55.37:357][  0]LogMaterial: Display: Missing cached shader map for material Iron__Ductile, compiling. 
+[2021.05.14-05.55.37:371][  0]LogMaterial: Display: Missing cached shader map for material Glass__1_, compiling. 
+[2021.05.14-05.55.37:398][  0]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 314
+[2021.05.14-05.55.37:398][  0]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 304
+[2021.05.14-05.55.37:398][  0]LogMaterial: Display: Missing cached shader map for material Glass, compiling. 
+[2021.05.14-05.55.37:423][  0]LogMaterial: Display: Missing cached shader map for material Aluminum, compiling. 
+[2021.05.14-05.55.37:570][  0]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 347
+[2021.05.14-05.55.37:570][  0]LogTexture: Display: Building textures: ScratchedMetal_N (BC5, 1024X1024)
+[2021.05.14-05.55.37:570][  0]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 337
+[2021.05.14-05.55.37:570][  0]LogTexture: Display: Building textures: Scratched_Metal_R (BGRA8, 886X901)
+[2021.05.14-05.55.37:570][  0]LogMaterial: Display: Missing cached shader map for material White_Glossy, compiling. 
+[2021.05.14-05.55.37:583][  0]LogMaterial: Display: Missing cached shader map for material Emmissive, compiling. 
+[2021.05.14-05.55.37:588][  0]LogStaticMesh: Building static mesh TorcheLight...
+[2021.05.14-05.55.37:594][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Gears/Meshes/TorcheLight.TorcheLight
+[2021.05.14-05.55.37:597][  0]LogStaticMesh: Building static mesh Wall_009...
+[2021.05.14-05.55.37:600][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Wall_009.Wall_009
+[2021.05.14-05.55.37:601][  0]LogStaticMesh: Building static mesh Wall_008...
+[2021.05.14-05.55.37:603][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Wall_008.Wall_008
+[2021.05.14-05.55.37:605][  0]LogStaticMesh: Building static mesh Wall_007...
+[2021.05.14-05.55.37:608][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Wall_007.Wall_007
+[2021.05.14-05.55.37:609][  0]LogStaticMesh: Building static mesh Wall_006...
+[2021.05.14-05.55.37:612][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Wall_006.Wall_006
+[2021.05.14-05.55.37:614][  0]LogStaticMesh: Building static mesh Wall_005...
+[2021.05.14-05.55.37:617][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Wall_005.Wall_005
+[2021.05.14-05.55.37:618][  0]LogStaticMesh: Building static mesh Wall_003...
+[2021.05.14-05.55.37:625][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Wall_003.Wall_003
+[2021.05.14-05.55.37:627][  0]LogStaticMesh: Building static mesh Wall_002...
+[2021.05.14-05.55.37:630][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Wall_002.Wall_002
+[2021.05.14-05.55.37:632][  0]LogStaticMesh: Building static mesh Wall_001...
+[2021.05.14-05.55.37:633][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Wall_001.Wall_001
+[2021.05.14-05.55.37:634][  0]LogStaticMesh: Building static mesh TopCol_005...
+[2021.05.14-05.55.37:638][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/TopCol_005.TopCol_005
+[2021.05.14-05.55.37:639][  0]LogStaticMesh: Building static mesh TopCol_004...
+[2021.05.14-05.55.37:642][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/TopCol_004.TopCol_004
+[2021.05.14-05.55.37:644][  0]LogStaticMesh: Building static mesh TopCol_003...
+[2021.05.14-05.55.37:647][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/TopCol_003.TopCol_003
+[2021.05.14-05.55.37:649][  0]LogStaticMesh: Building static mesh TopCol_002...
+[2021.05.14-05.55.37:653][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/TopCol_002.TopCol_002
+[2021.05.14-05.55.37:654][  0]LogStaticMesh: Building static mesh TopCol_001...
+[2021.05.14-05.55.37:658][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/TopCol_001.TopCol_001
+[2021.05.14-05.55.37:659][  0]LogStaticMesh: Building static mesh Steps...
+[2021.05.14-05.55.37:679][  0]LogStaticMesh: Built static mesh [0.02s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Steps.Steps
+[2021.05.14-05.55.37:681][  0]LogStaticMesh: Building static mesh Stair_Panel_009...
+[2021.05.14-05.55.37:684][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Stair_Panel_009.Stair_Panel_009
+[2021.05.14-05.55.37:685][  0]LogStaticMesh: Building static mesh Stair_Panel_007...
+[2021.05.14-05.55.37:688][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Stair_Panel_007.Stair_Panel_007
+[2021.05.14-05.55.37:689][  0]LogStaticMesh: Building static mesh Stair_Panel_006...
+[2021.05.14-05.55.37:691][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Stair_Panel_006.Stair_Panel_006
+[2021.05.14-05.55.37:692][  0]LogStaticMesh: Building static mesh Stair_Panel_004...
+[2021.05.14-05.55.37:694][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Stair_Panel_004.Stair_Panel_004
+[2021.05.14-05.55.37:696][  0]LogStaticMesh: Building static mesh Stair_Panel_002...
+[2021.05.14-05.55.37:699][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Stair_Panel_002.Stair_Panel_002
+[2021.05.14-05.55.37:700][  0]LogStaticMesh: Building static mesh Stair_Panel_001...
+[2021.05.14-05.55.37:702][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Stair_Panel_001.Stair_Panel_001
+[2021.05.14-05.55.37:704][  0]LogStaticMesh: Building static mesh Railing_Stairs_002...
+[2021.05.14-05.55.37:718][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Railing_Stairs_002.Railing_Stairs_002
+[2021.05.14-05.55.37:722][  0]LogStaticMesh: Building static mesh Railing_Stairs_001...
+[2021.05.14-05.55.37:738][  0]LogStaticMesh: Built static mesh [0.02s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Railing_Stairs_001.Railing_Stairs_001
+[2021.05.14-05.55.37:741][  0]LogStaticMesh: Building static mesh Railing_Panel_038...
+[2021.05.14-05.55.37:743][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Railing_Panel_038.Railing_Panel_038
+[2021.05.14-05.55.37:744][  0]LogStaticMesh: Building static mesh Railing_006...
+[2021.05.14-05.55.37:762][  0]LogStaticMesh: Built static mesh [0.02s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Railing_006.Railing_006
+[2021.05.14-05.55.37:765][  0]LogStaticMesh: Building static mesh Railing_005...
+[2021.05.14-05.55.37:779][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Railing_005.Railing_005
+[2021.05.14-05.55.37:782][  0]LogStaticMesh: Building static mesh Railing_004...
+[2021.05.14-05.55.37:792][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Railing_004.Railing_004
+[2021.05.14-05.55.37:794][  0]LogStaticMesh: Building static mesh Railing_003...
+[2021.05.14-05.55.37:805][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Railing_003.Railing_003
+[2021.05.14-05.55.37:807][  0]LogStaticMesh: Building static mesh Railing_002...
+[2021.05.14-05.55.37:817][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Railing_002.Railing_002
+[2021.05.14-05.55.37:820][  0]LogStaticMesh: Building static mesh Railing_001...
+[2021.05.14-05.55.37:834][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Railing_001.Railing_001
+[2021.05.14-05.55.37:835][  0]LogStaticMesh: Building static mesh Floor_4_2...
+[2021.05.14-05.55.37:838][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Floor_4_2.Floor_4_2
+[2021.05.14-05.55.37:840][  0]LogStaticMesh: Building static mesh Floor_4_1...
+[2021.05.14-05.55.37:842][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Floor_4_1.Floor_4_1
+[2021.05.14-05.55.37:843][  0]LogStaticMesh: Building static mesh Floor_2_4...
+[2021.05.14-05.55.37:845][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Floor_2_4.Floor_2_4
+[2021.05.14-05.55.37:846][  0]LogStaticMesh: Building static mesh Floor_2_3...
+[2021.05.14-05.55.37:849][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Floor_2_3.Floor_2_3
+[2021.05.14-05.55.37:851][  0]LogStaticMesh: Building static mesh Floor_2_2...
+[2021.05.14-05.55.37:853][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Floor_2_2.Floor_2_2
+[2021.05.14-05.55.37:855][  0]LogStaticMesh: Building static mesh Floor_2_1...
+[2021.05.14-05.55.37:857][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Floor_2_1.Floor_2_1
+[2021.05.14-05.55.37:858][  0]LogStaticMesh: Building static mesh Floor_1_1...
+[2021.05.14-05.55.37:861][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Floor_1_1.Floor_1_1
+[2021.05.14-05.55.37:862][  0]LogStaticMesh: Building static mesh Exterior_Walkways...
+[2021.05.14-05.55.37:868][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Exterior_Walkways.Exterior_Walkways
+[2021.05.14-05.55.37:870][  0]LogStaticMesh: Building static mesh Exterior_Terrain...
+[2021.05.14-05.55.37:873][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Exterior_Terrain.Exterior_Terrain
+[2021.05.14-05.55.37:875][  0]LogStaticMesh: Building static mesh Door_02_R...
+[2021.05.14-05.55.37:878][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Door_02_R.Door_02_R
+[2021.05.14-05.55.37:880][  0]LogStaticMesh: Building static mesh Door_02_L...
+[2021.05.14-05.55.37:886][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Door_02_L.Door_02_L
+[2021.05.14-05.55.37:888][  0]LogStaticMesh: Building static mesh Door_01_R...
+[2021.05.14-05.55.37:892][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Door_01_R.Door_01_R
+[2021.05.14-05.55.37:894][  0]LogStaticMesh: Building static mesh Door_01_L...
+[2021.05.14-05.55.37:899][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/Door_01_L.Door_01_L
+[2021.05.14-05.55.37:901][  0]LogStaticMesh: Building static mesh CWall_Panels_069...
+[2021.05.14-05.55.37:903][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_069.CWall_Panels_069
+[2021.05.14-05.55.37:905][  0]LogStaticMesh: Building static mesh CWall_Panels_065...
+[2021.05.14-05.55.37:908][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_065.CWall_Panels_065
+[2021.05.14-05.55.37:909][  0]LogStaticMesh: Building static mesh CWall_Panels_064...
+[2021.05.14-05.55.37:912][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_064.CWall_Panels_064
+[2021.05.14-05.55.37:913][  0]LogStaticMesh: Building static mesh CWall_Panels_055...
+[2021.05.14-05.55.37:915][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_055.CWall_Panels_055
+[2021.05.14-05.55.37:916][  0]LogStaticMesh: Building static mesh CWall_Panels_048...
+[2021.05.14-05.55.37:918][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_048.CWall_Panels_048
+[2021.05.14-05.55.37:920][  0]LogStaticMesh: Building static mesh CWall_Panels_045...
+[2021.05.14-05.55.37:921][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_045.CWall_Panels_045
+[2021.05.14-05.55.37:923][  0]LogStaticMesh: Building static mesh CWall_Panels_042...
+[2021.05.14-05.55.37:925][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_042.CWall_Panels_042
+[2021.05.14-05.55.37:926][  0]LogStaticMesh: Building static mesh CWall_Panels_041...
+[2021.05.14-05.55.37:930][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_041.CWall_Panels_041
+[2021.05.14-05.55.37:931][  0]LogStaticMesh: Building static mesh CWall_Panels_040...
+[2021.05.14-05.55.37:933][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_040.CWall_Panels_040
+[2021.05.14-05.55.37:935][  0]LogStaticMesh: Building static mesh CWall_Panels_038...
+[2021.05.14-05.55.37:936][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_038.CWall_Panels_038
+[2021.05.14-05.55.37:938][  0]LogStaticMesh: Building static mesh CWall_Panels_034...
+[2021.05.14-05.55.37:940][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_034.CWall_Panels_034
+[2021.05.14-05.55.37:941][  0]LogStaticMesh: Building static mesh CWall_Panels_022...
+[2021.05.14-05.55.37:943][  0]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 350
+[2021.05.14-05.55.37:943][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_022.CWall_Panels_022
+[2021.05.14-05.55.37:944][  0]LogStaticMesh: Building static mesh CWall_Panels_020...
+[2021.05.14-05.55.37:946][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_020.CWall_Panels_020
+[2021.05.14-05.55.37:948][  0]LogStaticMesh: Building static mesh CWall_Panels_016...
+[2021.05.14-05.55.37:950][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_016.CWall_Panels_016
+[2021.05.14-05.55.37:951][  0]LogStaticMesh: Building static mesh CWall_Panels_010...
+[2021.05.14-05.55.37:954][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_010.CWall_Panels_010
+[2021.05.14-05.55.37:955][  0]LogStaticMesh: Building static mesh CWall_Panels_009...
+[2021.05.14-05.55.37:958][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_009.CWall_Panels_009
+[2021.05.14-05.55.37:959][  0]LogStaticMesh: Building static mesh CWall_Panels_007...
+[2021.05.14-05.55.37:962][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_007.CWall_Panels_007
+[2021.05.14-05.55.37:963][  0]LogStaticMesh: Building static mesh CWall_Panels_006...
+[2021.05.14-05.55.37:965][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_006.CWall_Panels_006
+[2021.05.14-05.55.37:966][  0]LogStaticMesh: Building static mesh CWall_Panels_004...
+[2021.05.14-05.55.37:969][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_004.CWall_Panels_004
+[2021.05.14-05.55.37:970][  0]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 340
+[2021.05.14-05.55.37:970][  0]LogStaticMesh: Building static mesh CWall_Panels_003...
+[2021.05.14-05.55.37:972][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_003.CWall_Panels_003
+[2021.05.14-05.55.37:973][  0]LogStaticMesh: Building static mesh CWall_Panels_001...
+[2021.05.14-05.55.37:975][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_Panels_001.CWall_Panels_001
+[2021.05.14-05.55.37:977][  0]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 330
+[2021.05.14-05.55.37:977][  0]LogStaticMesh: Building static mesh CWall_010...
+[2021.05.14-05.55.37:985][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_010.CWall_010
+[2021.05.14-05.55.37:987][  0]LogStaticMesh: Building static mesh CWall_009...
+[2021.05.14-05.55.38:000][  0]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 320
+[2021.05.14-05.55.38:000][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_009.CWall_009
+[2021.05.14-05.55.38:001][  0]LogStaticMesh: Building static mesh CWall_008...
+[2021.05.14-05.55.38:010][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_008.CWall_008
+[2021.05.14-05.55.38:012][  0]LogStaticMesh: Building static mesh CWall_007...
+[2021.05.14-05.55.38:024][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_007.CWall_007
+[2021.05.14-05.55.38:025][  0]LogStaticMesh: Building static mesh CWall_006...
+[2021.05.14-05.55.38:037][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_006.CWall_006
+[2021.05.14-05.55.38:039][  0]LogStaticMesh: Building static mesh CWall_005...
+[2021.05.14-05.55.38:051][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_005.CWall_005
+[2021.05.14-05.55.38:052][  0]LogStaticMesh: Building static mesh CWall_004...
+[2021.05.14-05.55.38:067][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_004.CWall_004
+[2021.05.14-05.55.38:069][  0]LogStaticMesh: Building static mesh CWall_003...
+[2021.05.14-05.55.38:080][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_003.CWall_003
+[2021.05.14-05.55.38:082][  0]LogStaticMesh: Building static mesh CWall_002...
+[2021.05.14-05.55.38:093][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_002.CWall_002
+[2021.05.14-05.55.38:095][  0]LogStaticMesh: Building static mesh CWall_001...
+[2021.05.14-05.55.38:106][  0]LogStaticMesh: Built static mesh [0.01s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/CWall_001.CWall_001
+[2021.05.14-05.55.38:108][  0]LogStaticMesh: Building static mesh BaseCol_007...
+[2021.05.14-05.55.38:112][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/BaseCol_007.BaseCol_007
+[2021.05.14-05.55.38:114][  0]LogStaticMesh: Building static mesh BaseCol_006...
+[2021.05.14-05.55.38:117][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/BaseCol_006.BaseCol_006
+[2021.05.14-05.55.38:118][  0]LogStaticMesh: Building static mesh BaseCol_005...
+[2021.05.14-05.55.38:122][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/BaseCol_005.BaseCol_005
+[2021.05.14-05.55.38:124][  0]LogStaticMesh: Building static mesh BaseCol_004...
+[2021.05.14-05.55.38:127][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/BaseCol_004.BaseCol_004
+[2021.05.14-05.55.38:129][  0]LogStaticMesh: Building static mesh BaseCol_003...
+[2021.05.14-05.55.38:133][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/BaseCol_003.BaseCol_003
+[2021.05.14-05.55.38:134][  0]LogStaticMesh: Building static mesh BaseCol_002...
+[2021.05.14-05.55.38:138][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/BaseCol_002.BaseCol_002
+[2021.05.14-05.55.38:139][  0]LogStaticMesh: Building static mesh BaseCol_001...
+[2021.05.14-05.55.38:143][  0]LogStaticMesh: Built static mesh [0.00s] /Game/CollaborativeViewer/SampleScene/Building/Meshes/BaseCol_001.BaseCol_001
+[2021.05.14-05.55.38:957][  0]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 310
+[2021.05.14-05.55.38:957][  0]LogTexture: Display: Building textures: T_HillTree_01_Atlas_N (BC5, 2048X2048)
+[2021.05.14-05.55.38:957][  0]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 300
+[2021.05.14-05.55.38:957][  0]LogTexture: Display: Building textures: T_HillTree_01_Atlas (AutoDXT, 2048X2048)
+[2021.05.14-05.55.38:957][  0]LogMaterial: Display: Missing cached shader map for material Selectable_HighLight_Mat, compiling. 
+[2021.05.14-05.55.38:967][  0]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2021.05.14-05.55.38:987][  0]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2021.05.14-05.55.39:016][  0]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2021.05.14-05.55.39:952][  0]LogTexture: Display: Building textures: T_Craghead_Oak_Tile_01_N (BC5, 512X1024)
+[2021.05.14-05.55.39:953][  0]LogTexture: Display: Building textures: T_Craghead_Oak_Tile_01_D (AutoDXT, 512X1024)
+[2021.05.14-05.55.39:953][  0]LogTexture: Display: Building textures: T_Craghead_Oak_LimbTile_02_N (BC5, 512X2048)
+[2021.05.14-05.55.39:953][  0]LogTexture: Display: Building textures: T_Craghead_Oak_LimbTile_02_D (AutoDXT, 512X2048)
+[2021.05.14-05.55.39:953][  0]LogShaderCompilers: Display: Worker (17/17): shaders left to compile 396
+[2021.05.14-05.55.39:953][  0]LogTexture: Display: Building textures: T_HillTree_01_Atlas_S (AutoDXT, 4096X4096)
+[2021.05.14-05.55.41:693][  0]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 386
+[2021.05.14-05.55.41:705][  0]LogMaterial: Display: Missing cached shader map for material M_HillTree_01_Leaves, compiling. 
+[2021.05.14-05.55.41:758][  0]LogMaterial: Display: Missing cached shader map for material M_HillTree_01_Fronds, compiling. 
+[2021.05.14-05.55.41:811][  0]LogMaterial: Display: Missing cached shader map for material M_HillTree_01_Branches_2, compiling. 
+[2021.05.14-05.55.41:855][  0]LogMaterial: Display: Missing cached shader map for material M_HillTree_01_Branches, compiling. 
+[2021.05.14-05.55.41:915][  0]LogMaterial: Display: Missing cached shader map for material DefaultMaterial, compiling. 
+[2021.05.14-05.55.41:943][  0]LogMaterial: Display: Missing cached shader map for material DefaultMaterial, compiling. 
+[2021.05.14-05.55.41:971][  0]LogStaticMesh: Building static mesh HillTree_02...
+[2021.05.14-05.55.43:708][  0]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 824
+[2021.05.14-05.55.43:708][  0]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 814
+[2021.05.14-05.55.43:709][  0]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 804
+[2021.05.14-05.55.43:709][  0]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 794
+[2021.05.14-05.55.43:709][  0]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 784
+[2021.05.14-05.55.43:709][  0]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 774
+[2021.05.14-05.55.43:709][  0]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 764
+[2021.05.14-05.55.43:709][  0]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 754
+[2021.05.14-05.55.45:497][  0]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 744
+[2021.05.14-05.55.45:497][  0]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 734
+[2021.05.14-05.55.45:497][  0]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 724
+[2021.05.14-05.55.45:497][  0]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 714
+[2021.05.14-05.55.45:497][  0]LogShaderCompilers: Display: Worker (17/17): shaders left to compile 704
+[2021.05.14-05.55.45:497][  0]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 694
+[2021.05.14-05.55.46:098][  0]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 684
+[2021.05.14-05.55.46:098][  0]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 674
+[2021.05.14-05.55.46:098][  0]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 664
+[2021.05.14-05.55.46:098][  0]LogStaticMesh: Built static mesh [4.13s] /Game/CollaborativeViewer/SampleScene/Tree/HillTree_02.HillTree_02
+[2021.05.14-05.55.46:284][  0]LogStaticMesh: Building static mesh Transmission_part_8...
+[2021.05.14-05.55.46:645][  0]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 654
+[2021.05.14-05.55.46:820][  0]LogStaticMesh: Built static mesh [0.54s] /Game/CollaborativeViewer/SampleScene/Gears/Meshes/Transmission_part_8.Transmission_part_8
+[2021.05.14-05.55.46:831][  0]LogStaticMesh: Building static mesh Transmission_part_7...
+[2021.05.14-05.55.47:541][  0]LogStaticMesh: Built static mesh [0.71s] /Game/CollaborativeViewer/SampleScene/Gears/Meshes/Transmission_part_7.Transmission_part_7
+[2021.05.14-05.55.47:558][  0]LogStaticMesh: Building static mesh Transmission_part_6...
+[2021.05.14-05.55.47:888][  0]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 644
+[2021.05.14-05.55.47:889][  0]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 634
+[2021.05.14-05.55.47:889][  0]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 624
+[2021.05.14-05.55.48:151][  0]LogStaticMesh: Built static mesh [0.59s] /Game/CollaborativeViewer/SampleScene/Gears/Meshes/Transmission_part_6.Transmission_part_6
+[2021.05.14-05.55.48:172][  0]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 614
+[2021.05.14-05.55.48:172][  0]LogStaticMesh: Building static mesh Transmission_part_5...
+[2021.05.14-05.55.48:475][  0]LogStaticMesh: Built static mesh [0.30s] /Game/CollaborativeViewer/SampleScene/Gears/Meshes/Transmission_part_5.Transmission_part_5
+[2021.05.14-05.55.48:484][  0]LogStaticMesh: Building static mesh Transmission_part_4...
+[2021.05.14-05.55.49:166][  0]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 604
+[2021.05.14-05.55.49:166][  0]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 594
+[2021.05.14-05.55.49:166][  0]LogStaticMesh: Built static mesh [0.68s] /Game/CollaborativeViewer/SampleScene/Gears/Meshes/Transmission_part_4.Transmission_part_4
+[2021.05.14-05.55.49:190][  0]LogStaticMesh: Building static mesh Engine_chain_gear...
+[2021.05.14-05.55.49:458][  0]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 584
+[2021.05.14-05.55.49:458][  0]LogStaticMesh: Built static mesh [0.27s] /Game/CollaborativeViewer/SampleScene/Gears/Meshes/Engine_chain_gear.Engine_chain_gear
+[2021.05.14-05.55.49:473][  0]LogMaterial: Display: Missing cached shader map for material DefaultMaterial, compiling. 
+[2021.05.14-05.55.49:499][  0]LogStaticMesh: Building static mesh Transmission_part_9...
+[2021.05.14-05.55.49:575][  0]LogStaticMesh: Built static mesh [0.08s] /Game/CollaborativeViewer/SampleScene/Gears/Meshes/Transmission_part_9.Transmission_part_9
+[2021.05.14-05.55.49:579][  0]LogStaticMesh: Building static mesh Transmission_part_3...
+[2021.05.14-05.55.49:625][  0]LogStaticMesh: Built static mesh [0.05s] /Game/CollaborativeViewer/SampleScene/Gears/Meshes/Transmission_part_3.Transmission_part_3
+[2021.05.14-05.55.49:629][  0]LogStaticMesh: Building static mesh Transmission_part_2...
+[2021.05.14-05.55.49:968][  0]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 616
+[2021.05.14-05.55.49:968][  0]LogStaticMesh: Built static mesh [0.34s] /Game/CollaborativeViewer/SampleScene/Gears/Meshes/Transmission_part_2.Transmission_part_2
+[2021.05.14-05.55.49:977][  0]LogStaticMesh: Building static mesh Transmission_part_11...
+[2021.05.14-05.55.50:444][  0]LogStaticMesh: Built static mesh [0.47s] /Game/CollaborativeViewer/SampleScene/Gears/Meshes/Transmission_part_11.Transmission_part_11
+[2021.05.14-05.55.50:451][  0]LogStaticMesh: Building static mesh Transmission_part_10...
+[2021.05.14-05.55.50:531][  0]LogStaticMesh: Built static mesh [0.08s] /Game/CollaborativeViewer/SampleScene/Gears/Meshes/Transmission_part_10.Transmission_part_10
+[2021.05.14-05.55.50:535][  0]LogStaticMesh: Building static mesh Engine_AC_part_1...
+[2021.05.14-05.55.50:606][  0]LogStaticMesh: Built static mesh [0.07s] /Game/CollaborativeViewer/SampleScene/Gears/Meshes/Engine_AC_part_1.Engine_AC_part_1
+[2021.05.14-05.55.50:871][  0]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 606
+[2021.05.14-05.55.50:871][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.14-05.55.50:947][  0]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2021.05.14-05.55.50:954][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.14-05.55.50:955][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.32ms to complete.
+[2021.05.14-05.55.50:955][  0]LogFileHelpers: Loading map 'CollaborativeViewer_P' took 18.663
+[2021.05.14-05.55.50:982][  0]LogUnrealEdMisc: Total Editor Startup Time, took 27.867
+[2021.05.14-05.55.51:172][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.14-05.55.51:189][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.14-05.55.51:205][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.14-05.55.51:219][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.14-05.55.51:251][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0193 seconds. Added 3797 classes and 908 folders.
+[2021.05.14-05.55.51:255][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.05.14-05.55.51:257][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.14-05.55.51:257][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:257][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.14-05.55.51:257][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.05.14-05.55.51:258][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.14-05.55.51:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.14-05.55.51:258][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.05.14-05.55.51:259][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.14-05.55.51:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.14-05.55.51:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.05.14-05.55.51:260][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.14-05.55.51:260][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:260][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.14-05.55.51:260][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.05.14-05.55.51:261][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.14-05.55.51:261][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.14-05.55.51:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.05.14-05.55.51:261][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.14-05.55.51:261][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.14-05.55.51:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.05.14-05.55.51:262][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.14-05.55.51:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.14-05.55.51:262][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.05.14-05.55.51:263][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.14-05.55.51:263][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:263][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.14-05.55.51:263][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.05.14-05.55.51:263][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.14-05.55.51:263][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:263][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.14-05.55.51:263][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.05.14-05.55.51:264][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.14-05.55.51:264][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:264][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.14-05.55.51:264][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.05.14-05.55.51:265][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.14-05.55.51:265][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:265][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.14-05.55.51:265][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.05.14-05.55.51:265][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.14-05.55.51:265][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:265][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.14-05.55.51:265][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.05.14-05.55.51:266][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.14-05.55.51:266][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:266][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.14-05.55.51:266][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.05.14-05.55.51:267][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.14-05.55.51:267][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:267][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.14-05.55.51:267][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.05.14-05.55.51:267][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.14-05.55.51:267][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:267][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.14-05.55.51:268][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.05.14-05.55.51:268][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.14-05.55.51:268][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:268][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.14-05.55.51:268][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.05.14-05.55.51:269][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.14-05.55.51:269][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:269][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.14-05.55.51:269][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.05.14-05.55.51:269][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.14-05.55.51:270][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:270][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.14-05.55.51:270][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.05.14-05.55.51:271][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.14-05.55.51:271][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:271][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.14-05.55.51:271][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.05.14-05.55.51:271][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.14-05.55.51:271][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:271][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.14-05.55.51:271][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.05.14-05.55.51:272][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.14-05.55.51:272][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:272][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.14-05.55.51:272][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.05.14-05.55.51:272][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.14-05.55.51:272][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:272][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.14-05.55.51:272][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.05.14-05.55.51:273][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.14-05.55.51:273][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:273][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.14-05.55.51:273][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.05.14-05.55.51:274][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.14-05.55.51:274][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:274][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.14-05.55.51:274][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.05.14-05.55.51:274][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.14-05.55.51:274][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:274][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.14-05.55.51:274][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.05.14-05.55.51:275][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.14-05.55.51:275][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.14-05.55.51:275][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.14-05.55.51:275][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.05.14-05.55.51:319][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.05.14-05.55.51:322][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 2 classes and 0 folders.
+[2021.05.14-05.55.51:597][  0]LogSlate: Took 0.000473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.14-05.55.51:603][  0]LogSlate: Took 0.000434 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.14-05.55.51:609][  0]LogSlate: Took 0.003153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.14-05.55.51:666][  0]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 596
+[2021.05.14-05.55.51:666][  0]LogRenderer: Reallocating scene render targets to support 1532x536 Format 10 NumSamples 1 (Frame:1).
+[2021.05.14-05.55.51:733][  0]LogSlate: Took 0.000395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.14-05.55.51:892][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.05.14-05.55.51:892][  0]LogLoad: (Engine Initialization) Total time: 28.78 seconds
+[2021.05.14-05.55.51:892][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.14-05.55.51:892][  0]LogInit: First time updating LLM stats...
+[2021.05.14-05.55.51:919][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.05.14-05.55.51:919][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.05.14-05.55.51:973][  0]LogAssetRegistry: Asset discovery search completed in 26.7478 seconds
+[2021.05.14-05.55.51:977][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2021.05.14-05.55.52:338][  0]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 586
+[2021.05.14-05.55.52:338][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.14-05.55.52:427][  0]LogRenderer: Reallocating scene render targets to support 1532x552 Format 10 NumSamples 1 (Frame:3).
+[2021.05.14-05.55.52:563][  3]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 576
+[2021.05.14-05.55.52:593][  6]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 566
+[2021.05.14-05.55.52:821][ 10]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 556
+[2021.05.14-05.55.55:975][273]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 546
+[2021.05.14-05.55.56:295][302]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 536
+[2021.05.14-05.55.56:571][329]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 526
+[2021.05.14-05.55.56:735][345]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 516
+[2021.05.14-05.56.02:543][885]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 506
+[2021.05.14-05.56.05:960][195]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 496
+[2021.05.14-05.56.09:394][529]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 486
+[2021.05.14-05.56.11:703][756]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 476
+[2021.05.14-05.56.11:734][759]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 466
+[2021.05.14-05.56.11:924][778]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 456
+[2021.05.14-05.56.12:837][868]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 446
+[2021.05.14-05.56.13:541][933]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 436
+[2021.05.14-05.56.13:807][957]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 426
+[2021.05.14-05.56.16:096][187]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 416
+[2021.05.14-05.56.16:355][213]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 406
+[2021.05.14-05.56.16:440][222]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 396
+[2021.05.14-05.56.17:435][323]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 386
+[2021.05.14-05.56.17:454][325]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 376
+[2021.05.14-05.56.18:127][392]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 366
+[2021.05.14-05.56.19:593][541]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 356
+[2021.05.14-05.56.20:063][590]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 346
+[2021.05.14-05.56.20:128][597]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 336
+[2021.05.14-05.56.20:173][602]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 326
+[2021.05.14-05.56.20:249][610]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 316
+[2021.05.14-05.56.20:485][632]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 306
+[2021.05.14-05.56.21:293][713]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 296
+[2021.05.14-05.56.21:485][732]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 286
+[2021.05.14-05.56.22:440][830]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 276
+[2021.05.14-05.56.22:471][833]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 266
+[2021.05.14-05.56.23:905][978]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 256
+[2021.05.14-05.56.24:440][ 33]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 246
+[2021.05.14-05.56.24:869][ 73]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 236
+[2021.05.14-05.56.25:007][ 80]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 226
+[2021.05.14-05.56.25:749][152]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 216
+[2021.05.14-05.56.25:786][156]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 206
+[2021.05.14-05.56.25:974][176]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 196
+[2021.05.14-05.56.26:391][218]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 186
+[2021.05.14-05.56.26:808][261]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 176
+[2021.05.14-05.56.26:962][278]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 166
+[2021.05.14-05.56.27:625][345]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 156
+[2021.05.14-05.56.28:349][416]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 146
+[2021.05.14-05.56.29:005][478]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 136
+[2021.05.14-05.56.29:006][478]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 127
+[2021.05.14-05.56.29:182][488]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 119
+[2021.05.14-05.56.29:370][509]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 111
+[2021.05.14-05.56.29:638][536]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 104
+[2021.05.14-05.56.29:771][550]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 97
+[2021.05.14-05.56.30:029][576]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 90
+[2021.05.14-05.56.30:640][639]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 84
+[2021.05.14-05.56.31:114][689]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 78
+[2021.05.14-05.56.31:712][749]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 73
+[2021.05.14-05.56.32:398][816]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 68
+[2021.05.14-05.56.32:501][826]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 63
+[2021.05.14-05.56.32:522][828]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 59
+[2021.05.14-05.56.32:801][857]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 55
+[2021.05.14-05.56.32:876][865]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 51
+[2021.05.14-05.56.32:961][874]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 47
+[2021.05.14-05.56.33:072][886]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 44
+[2021.05.14-05.56.33:129][892]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 41
+[2021.05.14-05.56.33:429][917]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 38
+[2021.05.14-05.56.33:511][925]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 35
+[2021.05.14-05.56.33:646][939]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 32
+[2021.05.14-05.56.33:936][970]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 29
+[2021.05.14-05.56.34:344][ 13]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 27
+[2021.05.14-05.56.34:526][ 31]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 25
+[2021.05.14-05.56.34:618][ 41]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 23
+[2021.05.14-05.56.34:663][ 46]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 21
+[2021.05.14-05.56.34:745][ 54]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 19
+[2021.05.14-05.56.34:746][ 54]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 17
+[2021.05.14-05.56.34:766][ 55]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 15
+[2021.05.14-05.56.34:796][ 57]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 14
+[2021.05.14-05.56.34:832][ 61]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 13
+[2021.05.14-05.56.34:903][ 69]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 12
+[2021.05.14-05.56.34:913][ 70]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 11
+[2021.05.14-05.56.35:177][ 96]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 10
+[2021.05.14-05.56.35:294][109]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 9
+[2021.05.14-05.56.35:320][112]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 8
+[2021.05.14-05.56.35:339][114]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 7
+[2021.05.14-05.56.35:355][116]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 6
+[2021.05.14-05.56.35:383][119]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 5
+[2021.05.14-05.56.35:563][137]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 4
+[2021.05.14-05.56.35:613][142]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 3
+[2021.05.14-05.56.35:623][143]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 2
+[2021.05.14-05.56.35:681][148]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 1
