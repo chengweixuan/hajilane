@@ -1606,3 +1606,397 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.14-06.14.35:252][844]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.14-06.14.35:252][844]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CollaborativeViewer/Maps/CollaborativeViewer_P_BuiltData.CollaborativeViewer_P_BuiltData
 [2021.05.14-06.14.35:252][844]LogContentValidation: Display: Validating World /Game/CollaborativeViewer/Maps/CollaborativeViewer_P.CollaborativeViewer_P
+[2021.05.14-06.31.05:405][895]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.14-06.32.28:112][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Terrain)
+[2021.05.14-06.33.02:454][207]LogSlate: Window 'Select Path' being destroyed
+[2021.05.14-06.33.02:494][207]LogStaticMesh: Building static mesh Box_Brush_StaticMesh...
+[2021.05.14-06.33.02:496][207]LogStaticMesh: Built static mesh [0.00s] /Game/Box_Brush_StaticMesh.Box_Brush_StaticMesh
+[2021.05.14-06.33.02:497][207]LogActorFactory: Actor Factory created Box_Brush_StaticMesh
+[2021.05.14-06.33.02:510][207]LogEditor: Error: Actor 'Brush /Game/CollaborativeViewer/Maps/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.BoxBrush' is marked pending kill and cannot be converted
+[2021.05.14-06.33.02:510][207]LogEditor: Error: Actor 'Brush /Game/CollaborativeViewer/Maps/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.BoxBrush2' is marked pending kill and cannot be converted
+[2021.05.14-06.33.02:510][207]EditorErrors: New page: Actor Reattachment
+[2021.05.14-06.33.02:516][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.14-06.33.40:454][382]LogMaterial: Display: Missing cached shader map for material T_Brick_Cut_Stone_Mat, compiling. 
+[2021.05.14-06.33.40:467][382]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 12
+[2021.05.14-06.33.40:467][382]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 11
+[2021.05.14-06.33.40:467][382]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 10
+[2021.05.14-06.33.40:467][382]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 9
+[2021.05.14-06.33.40:467][382]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 8
+[2021.05.14-06.33.40:467][382]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 7
+[2021.05.14-06.33.40:467][382]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 6
+[2021.05.14-06.33.40:467][382]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 5
+[2021.05.14-06.33.40:467][382]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 4
+[2021.05.14-06.33.40:467][382]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 3
+[2021.05.14-06.33.40:467][382]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 2
+[2021.05.14-06.33.40:467][382]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 1
+[2021.05.14-06.33.50:736][466]LogActorFactory: Actor Factory created Box_Brush_StaticMesh
+[2021.05.14-06.33.51:405][546]LogActorFactory: Actor Factory created Box_Brush_StaticMesh
+[2021.05.14-06.34.39:351][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.05.14-06.34.39:359][273]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/CollaborativeViewer_P_Auto178FC3CCF4185E3E478C092B0353A481E.tmp' to 'D:/Unreal Engine/HajiLane/Saved/Autosaves/Game/CollaborativeViewer/Maps/CollaborativeViewer_P_Auto1.umap'
+[2021.05.14-06.34.39:359][273]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CollaborativeViewer/Maps/CollaborativeViewer_P' took 0.014
+[2021.05.14-06.34.39:359][273]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.014
+[2021.05.14-06.34.39:359][273]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Box_Brush_StaticMesh] ([1] browsable assets)...
+[2021.05.14-06.34.39:366][273]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Box_Brush_StaticMesh.Box_Brush_StaticMesh]
+[2021.05.14-06.34.39:366][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Box_Brush_StaticMesh]
+[2021.05.14-06.34.39:366][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Box_Brush_StaticMesh" FILE="D:/Unreal Engine/HajiLane/Saved/Autosaves/Game/Box_Brush_StaticMesh_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.05.14-06.34.39:370][273]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/Box_Brush_StaticMesh_Auto1A95DD7F74711C90B6BC4EF99224D1B82.tmp' to 'D:/Unreal Engine/HajiLane/Saved/Autosaves/Game/Box_Brush_StaticMesh_Auto1.uasset'
+[2021.05.14-06.34.39:371][273]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Brick_Cut_Stone_Mat] ([1] browsable assets)...
+[2021.05.14-06.34.39:380][273]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Brick_Cut_Stone_Mat.T_Brick_Cut_Stone_Mat]
+[2021.05.14-06.34.39:380][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Brick_Cut_Stone_Mat]
+[2021.05.14-06.34.39:384][273]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/T_Brick_Cut_Stone_Mat_Auto1DC8294474E60EA83F98983970CEABFAE.tmp' to 'D:/Unreal Engine/HajiLane/Saved/Autosaves/Game/StarterContent/Textures/T_Brick_Cut_Stone_Mat_Auto1.uasset'
+[2021.05.14-06.34.39:384][273]LogFileHelpers: Auto-saving content packages took 0.025
+[2021.05.14-06.34.47:248][831]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.14-06.34.49:226][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Terrain)
+[2021.05.14-06.35.16:284][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh2)
+[2021.05.14-06.35.31:047][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2021.05.14-06.36.25:277][902]LogActorFactory: Actor Factory created SM_Chair
+[2021.05.14-06.36.25:623][943]LogActorFactory: Actor Factory created SM_Chair
+[2021.05.14-06.36.38:780][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2021.05.14-06.36.39:173][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Terrain)
+[2021.05.14-06.44.39:836][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.05.14-06.44.39:844][153]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/CollaborativeViewer_P_Auto24C285CB54C2B03C3EC20E49C152FF255.tmp' to 'D:/Unreal Engine/HajiLane/Saved/Autosaves/Game/CollaborativeViewer/Maps/CollaborativeViewer_P_Auto2.umap'
+[2021.05.14-06.44.39:845][153]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CollaborativeViewer/Maps/CollaborativeViewer_P' took 0.015
+[2021.05.14-06.44.39:845][153]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.015
+[2021.05.14-06.48.57:816][188]LogTemp: Warning: Select a mesh. Switch tools to paint vertex colors, blend between textures, or paint directly onto a texture file.
+[2021.05.14-06.48.57:827][188]LogSlate: Took 0.000565 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.14-06.49.43:302][920]LogTemp: Warning: Select a mesh. Switch tools to paint vertex colors, blend between textures, or paint directly onto a texture file.
+[2021.05.14-06.50.09:694][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Terrain)
+[2021.05.14-06.50.19:765][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.05.14-06.50.19:772][297]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/CollaborativeViewer_PB92B854D413C8924FFDE5BB77CCE112A.tmp' to 'D:/Unreal Engine/HajiLane/Content/CollaborativeViewer/Maps/CollaborativeViewer_P.umap'
+[2021.05.14-06.50.19:775][297]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/CollaborativeViewer_P_BuiltData62C7F19847BFA8031EDFF0A37D5A7839.tmp' to 'D:/Unreal Engine/HajiLane/Content/CollaborativeViewer/Maps/CollaborativeViewer_P_BuiltData.uasset'
+[2021.05.14-06.50.19:781][297]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.14-06.50.19:781][297]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CollaborativeViewer/Maps/CollaborativeViewer_P_BuiltData.CollaborativeViewer_P_BuiltData
+[2021.05.14-06.50.19:781][297]LogContentValidation: Display: Validating World /Game/CollaborativeViewer/Maps/CollaborativeViewer_P.CollaborativeViewer_P
+[2021.05.14-07.46.52:928][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Terrain)
+[2021.05.14-07.52.58:846][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Terrain)
+[2021.05.14-07.53.09:995][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh2)
+[2021.05.14-07.53.12:852][963]Cmd: DELETE
+[2021.05.14-07.53.12:852][963]Cmd: ACTOR DELETE
+[2021.05.14-07.53.12:857][963]LogEditorActor: Deleted Actor: Brush
+[2021.05.14-07.53.12:863][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.05.14-07.53.12:866][963]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.05.14-07.53.14:171][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh2)
+[2021.05.14-07.53.14:385][142]Cmd: DELETE
+[2021.05.14-07.53.14:385][142]Cmd: ACTOR DELETE
+[2021.05.14-07.53.14:387][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.14-07.53.14:393][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.14-07.53.14:394][142]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.05.14-07.53.14:898][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2021.05.14-07.53.15:043][218]Cmd: DELETE
+[2021.05.14-07.53.15:043][218]Cmd: ACTOR DELETE
+[2021.05.14-07.53.15:045][218]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.14-07.53.15:051][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.05.14-07.53.15:051][218]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.05.14-07.53.32:968][321]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.05.14-07.53.41:022][278]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.05.14-07.53.57:456][225]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.05.14-07.54.32:575][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.05.14-07.54.32:581][134]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/CollaborativeViewer_P_Auto3D49EFA6F47303EAAE421ED819F2AABF3.tmp' to 'D:/Unreal Engine/HajiLane/Saved/Autosaves/Game/CollaborativeViewer/Maps/CollaborativeViewer_P_Auto3.umap'
+[2021.05.14-07.54.32:582][134]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CollaborativeViewer/Maps/CollaborativeViewer_P' took 0.012
+[2021.05.14-07.54.32:582][134]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.012
+[2021.05.14-07.59.44:540][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Terrain)
+[2021.05.14-07.59.55:355][292]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.05.14-07.59.55:378][292]LogContentBrowser: Creating deferred item: NewFolder
+[2021.05.14-07.59.59:363][771]LogContentBrowser: Attempting asset rename: NewFolder -> Meshes
+[2021.05.14-07.59.59:363][771]LogContentBrowser: End creating deferred item NewFolder
+[2021.05.14-08.00.02:533][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Box_Brush_StaticMesh" FILE="D:/Unreal Engine/HajiLane/Content/Meshes/Box_Brush_StaticMesh.uasset" SILENT=true
+[2021.05.14-08.00.02:537][ 64]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/Box_Brush_StaticMesh494DA9034B46F9405D4EC2A65CF0C4C6.tmp' to 'D:/Unreal Engine/HajiLane/Content/Meshes/Box_Brush_StaticMesh.uasset'
+[2021.05.14-08.00.02:537][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Box_Brush_StaticMesh" FILE="D:/Unreal Engine/HajiLane/Content/Box_Brush_StaticMesh.uasset" SILENT=true
+[2021.05.14-08.00.02:537][ 64]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/Box_Brush_StaticMesh447072A84B6179B3AA1AE9ACC92190CE.tmp' to 'D:/Unreal Engine/HajiLane/Content/Box_Brush_StaticMesh.uasset'
+[2021.05.14-08.00.02:603][ 64]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.14-08.00.02:603][ 64]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Box_Brush_StaticMesh.Box_Brush_StaticMesh
+[2021.05.14-08.00.02:603][ 64]LogContentValidation: Display: Validating ObjectRedirector /Game/Box_Brush_StaticMesh.Box_Brush_StaticMesh
+[2021.05.14-08.00.09:693][845]LogActorFactory: Actor Factory created Box_Brush_StaticMesh
+[2021.05.14-08.00.11:183][ 23]LogActorFactory: Actor Factory created Box_Brush_StaticMesh
+[2021.05.14-08.00.22:961][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2021.05.14-08.00.33:252][607]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.14-08.01.24:784][300]LogSlate: Window 'Select Path' being destroyed
+[2021.05.14-08.01.24:803][300]LogStaticMesh: Building static mesh wall...
+[2021.05.14-08.01.24:804][300]LogStaticMesh: Built static mesh [0.00s] /Game/wall.wall
+[2021.05.14-08.01.24:804][300]LogActorFactory: Actor Factory created wall
+[2021.05.14-08.01.24:817][300]LogEditor: Error: Actor 'Brush /Game/CollaborativeViewer/Maps/CollaborativeViewer_P.CollaborativeViewer_P:PersistentLevel.BoxBrush' is marked pending kill and cannot be converted
+[2021.05.14-08.01.24:817][300]EditorErrors: New page: Actor Reattachment
+[2021.05.14-08.01.24:823][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.05.14-08.01.31:836][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/wall" FILE="D:/Unreal Engine/HajiLane/Content/Meshes/wall.uasset" SILENT=true
+[2021.05.14-08.01.31:840][ 31]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/wall38915A564069C9E635BF25B755A6BC9C.tmp' to 'D:/Unreal Engine/HajiLane/Content/Meshes/wall.uasset'
+[2021.05.14-08.01.31:883][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.05.14-08.01.31:894][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.05.14-08.01.31:899][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.05.14-08.01.31:957][ 31]AssetCheck: New page: Asset Save: wall
+[2021.05.14-08.01.31:957][ 31]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/wall.wall
+[2021.05.14-08.01.33:660][187]LogActorFactory: Actor Factory created wall
+[2021.05.14-08.01.38:782][801]LogActorFactory: Actor Factory created wall
+[2021.05.14-08.02.20:423][294]LogSlate: Window 'Material Baking Options' being destroyed
+[2021.05.14-08.02.52:075][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Terrain)
+[2021.05.14-08.02.52:725][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall2)
+[2021.05.14-08.02.54:080][149]Cmd: TRANSACTION UNDO
+[2021.05.14-08.02.54:080][149]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.14-08.02.55:107][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall2)
+[2021.05.14-08.02.55:896][306]Cmd: TRANSACTION UNDO
+[2021.05.14-08.02.55:896][306]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.14-08.02.56:211][336]Cmd: TRANSACTION UNDO
+[2021.05.14-08.02.56:211][336]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.14-08.02.56:568][377]Cmd: TRANSACTION UNDO
+[2021.05.14-08.02.56:568][377]LogEditorTransaction: Undo Scale Actors
+[2021.05.14-08.03.00:259][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall2)
+[2021.05.14-08.03.10:144][995]Cmd: DELETE
+[2021.05.14-08.03.10:144][995]Cmd: ACTOR DELETE
+[2021.05.14-08.03.10:146][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.14-08.03.10:152][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.14-08.03.10:155][995]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.05.14-08.03.13:392][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall)
+[2021.05.14-08.03.14:124][469]Cmd: DELETE
+[2021.05.14-08.03.14:124][469]Cmd: ACTOR DELETE
+[2021.05.14-08.03.14:126][469]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.14-08.03.14:131][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.14-08.03.14:132][469]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.05.14-08.03.17:360][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush_StaticMesh)
+[2021.05.14-08.03.42:699][554]Cmd: TRANSACTION UNDO
+[2021.05.14-08.03.42:699][554]LogEditorTransaction: Undo Create Actors
+[2021.05.14-08.04.32:793][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.05.14-08.04.32:800][929]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/CollaborativeViewer_P_Auto4A57BA6A24CF9211B904C9E9DE37FD186.tmp' to 'D:/Unreal Engine/HajiLane/Saved/Autosaves/Game/CollaborativeViewer/Maps/CollaborativeViewer_P_Auto4.umap'
+[2021.05.14-08.04.32:800][929]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CollaborativeViewer/Maps/CollaborativeViewer_P' took 0.012
+[2021.05.14-08.04.32:800][929]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.012
+[2021.05.14-08.33.22:489][447]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Administrator\Downloads\Worker_Mesh.fbx)
+[2021.05.14-08.33.22:516][447]LogFbx: Loading FBX Scene from C:\Users\Administrator\Downloads\Worker_Mesh.fbx
+[2021.05.14-08.33.22:573][447]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.14-08.33.39:027][447]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.05.14-08.33.39:051][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.005) - Node Ch17_Pants : The relative matrices do not match
+[2021.05.14-08.33.39:051][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.005) - Node Ch17_Vest : The relative matrices do not match
+[2021.05.14-08.33.39:051][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.005) - Node Ch17_Hair : The relative matrices do not match
+[2021.05.14-08.33.39:051][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.005) - Node Ch17_Boots : The relative matrices do not match
+[2021.05.14-08.33.39:052][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.005) - Node Ch17_Shirt : The relative matrices do not match
+[2021.05.14-08.33.39:052][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.005) - Node Ch17_Body : The relative matrices do not match
+[2021.05.14-08.33.39:052][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.005) - Node Ch17_Helmet : The relative matrices do not match
+[2021.05.14-08.33.39:052][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.005) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.05.14-08.33.39:053][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.003) - Node Ch17_Pants : The relative matrices do not match
+[2021.05.14-08.33.39:053][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.003) - Node Ch17_Vest : The relative matrices do not match
+[2021.05.14-08.33.39:053][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.003) - Node Ch17_Hair : The relative matrices do not match
+[2021.05.14-08.33.39:054][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.003) - Node Ch17_Boots : The relative matrices do not match
+[2021.05.14-08.33.39:054][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.003) - Node Ch17_Shirt : The relative matrices do not match
+[2021.05.14-08.33.39:054][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.003) - Node Ch17_Body : The relative matrices do not match
+[2021.05.14-08.33.39:054][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.003) - Node Ch17_Helmet : The relative matrices do not match
+[2021.05.14-08.33.39:055][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.003) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.05.14-08.33.39:055][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.007) - Node Ch17_Pants : The relative matrices do not match
+[2021.05.14-08.33.39:055][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.007) - Node Ch17_Vest : The relative matrices do not match
+[2021.05.14-08.33.39:055][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.007) - Node Ch17_Hair : The relative matrices do not match
+[2021.05.14-08.33.39:056][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.007) - Node Ch17_Boots : The relative matrices do not match
+[2021.05.14-08.33.39:056][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.007) - Node Ch17_Shirt : The relative matrices do not match
+[2021.05.14-08.33.39:056][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.007) - Node Ch17_Body : The relative matrices do not match
+[2021.05.14-08.33.39:056][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.007) - Node Ch17_Helmet : The relative matrices do not match
+[2021.05.14-08.33.39:057][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.007) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.05.14-08.33.39:057][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.001) - Node Ch17_Pants : The relative matrices do not match
+[2021.05.14-08.33.39:057][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.001) - Node Ch17_Vest : The relative matrices do not match
+[2021.05.14-08.33.39:058][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.001) - Node Ch17_Hair : The relative matrices do not match
+[2021.05.14-08.33.39:058][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.001) - Node Ch17_Boots : The relative matrices do not match
+[2021.05.14-08.33.39:058][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.001) - Node Ch17_Shirt : The relative matrices do not match
+[2021.05.14-08.33.39:058][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.001) - Node Ch17_Body : The relative matrices do not match
+[2021.05.14-08.33.39:059][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.001) - Node Ch17_Helmet : The relative matrices do not match
+[2021.05.14-08.33.39:059][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.001) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.05.14-08.33.39:059][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.004) - Node Ch17_Pants : The relative matrices do not match
+[2021.05.14-08.33.39:059][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.004) - Node Ch17_Vest : The relative matrices do not match
+[2021.05.14-08.33.39:060][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.004) - Node Ch17_Hair : The relative matrices do not match
+[2021.05.14-08.33.39:060][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.004) - Node Ch17_Boots : The relative matrices do not match
+[2021.05.14-08.33.39:060][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.004) - Node Ch17_Shirt : The relative matrices do not match
+[2021.05.14-08.33.39:061][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.004) - Node Ch17_Body : The relative matrices do not match
+[2021.05.14-08.33.39:061][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.004) - Node Ch17_Helmet : The relative matrices do not match
+[2021.05.14-08.33.39:061][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.004) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.05.14-08.33.39:061][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh) - Node Ch17_Pants : The relative matrices do not match
+[2021.05.14-08.33.39:062][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh) - Node Ch17_Vest : The relative matrices do not match
+[2021.05.14-08.33.39:062][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh) - Node Ch17_Hair : The relative matrices do not match
+[2021.05.14-08.33.39:062][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh) - Node Ch17_Boots : The relative matrices do not match
+[2021.05.14-08.33.39:062][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh) - Node Ch17_Shirt : The relative matrices do not match
+[2021.05.14-08.33.39:063][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh) - Node Ch17_Body : The relative matrices do not match
+[2021.05.14-08.33.39:063][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh) - Node Ch17_Helmet : The relative matrices do not match
+[2021.05.14-08.33.39:063][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.05.14-08.33.39:064][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.002) - Node Ch17_Pants : The relative matrices do not match
+[2021.05.14-08.33.39:064][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.002) - Node Ch17_Vest : The relative matrices do not match
+[2021.05.14-08.33.39:064][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.002) - Node Ch17_Hair : The relative matrices do not match
+[2021.05.14-08.33.39:064][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.002) - Node Ch17_Boots : The relative matrices do not match
+[2021.05.14-08.33.39:065][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.002) - Node Ch17_Shirt : The relative matrices do not match
+[2021.05.14-08.33.39:065][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.002) - Node Ch17_Body : The relative matrices do not match
+[2021.05.14-08.33.39:065][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.002) - Node Ch17_Helmet : The relative matrices do not match
+[2021.05.14-08.33.39:065][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.002) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.05.14-08.33.39:066][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.006) - Node Ch17_Pants : The relative matrices do not match
+[2021.05.14-08.33.39:066][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.006) - Node Ch17_Vest : The relative matrices do not match
+[2021.05.14-08.33.39:066][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.006) - Node Ch17_Hair : The relative matrices do not match
+[2021.05.14-08.33.39:066][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.006) - Node Ch17_Boots : The relative matrices do not match
+[2021.05.14-08.33.39:067][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.006) - Node Ch17_Shirt : The relative matrices do not match
+[2021.05.14-08.33.39:067][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.006) - Node Ch17_Body : The relative matrices do not match
+[2021.05.14-08.33.39:067][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.006) - Node Ch17_Helmet : The relative matrices do not match
+[2021.05.14-08.33.39:068][447]LogFbx: Warning: Not valid bind pose for Pose (Mesh.006) - Node Ch17_Eyelashes : The relative matrices do not match
+[2021.05.14-08.33.39:068][447]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.05.14-08.33.39:072][447]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch17_Pants
+[2021.05.14-08.33.39:072][447]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.05.14-08.33.39:102][447]LogMaterial: Display: Material /Game/Ch17_body.Ch17_body needed to have new flag set bUsedWithSkeletalMesh !
+[2021.05.14-08.33.39:103][447]LogMaterial: Display: Missing cached shader map for material Ch17_body, compiling. 
+[2021.05.14-08.33.39:112][447]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Tagvance\Documents\Blender\Worker\Worker_Mesh.fbm\Ch17_1001_Diffuse.png
+[2021.05.14-08.33.39:112][447]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Tagvance\Documents\Blender\Worker\Worker_Mesh.fbm\Ch17_1001_Specular.png
+[2021.05.14-08.33.39:112][447]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Tagvance\Documents\Blender\Worker\Worker_Mesh.fbm\Ch17_1001_Glossiness.png
+[2021.05.14-08.33.39:112][447]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Tagvance\Documents\Blender\Worker\Worker_Mesh.fbm\Ch17_1001_Normal.png
+[2021.05.14-08.33.39:113][447]LogMaterial: Display: Missing cached shader map for material Ch17_body, compiling. 
+[2021.05.14-08.33.39:123][447]LogFbx: Triangulating skeletal mesh Ch17_Pants
+[2021.05.14-08.33.39:238][447]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 24
+[2021.05.14-08.33.39:238][447]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 22
+[2021.05.14-08.33.39:238][447]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 20
+[2021.05.14-08.33.39:238][447]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 18
+[2021.05.14-08.33.39:238][447]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 16
+[2021.05.14-08.33.39:238][447]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 14
+[2021.05.14-08.33.39:238][447]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 12
+[2021.05.14-08.33.39:238][447]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 10
+[2021.05.14-08.33.39:238][447]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 8
+[2021.05.14-08.33.39:238][447]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 6
+[2021.05.14-08.33.39:238][447]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 4
+[2021.05.14-08.33.39:238][447]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 2
+[2021.05.14-08.33.39:238][447]LogFbx: Triangulating skeletal mesh Ch17_Vest
+[2021.05.14-08.33.39:339][447]LogMaterial: Display: Material /Game/Ch17_hair.Ch17_hair needed to have new flag set bUsedWithSkeletalMesh !
+[2021.05.14-08.33.39:341][447]LogMaterial: Display: Missing cached shader map for material Ch17_hair, compiling. 
+[2021.05.14-08.33.39:355][447]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 24
+[2021.05.14-08.33.39:355][447]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 22
+[2021.05.14-08.33.39:355][447]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 20
+[2021.05.14-08.33.39:355][447]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 18
+[2021.05.14-08.33.39:374][447]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Tagvance\Documents\Blender\Worker\Worker_Mesh.fbm\Ch17_1002_Diffuse.png
+[2021.05.14-08.33.39:375][447]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Tagvance\Documents\Blender\Worker\Worker_Mesh.fbm\Ch17_1002_Normal.png
+[2021.05.14-08.33.39:380][447]LogMaterial: Display: Missing cached shader map for material Ch17_hair, compiling. 
+[2021.05.14-08.33.39:402][447]LogFbx: Triangulating skeletal mesh Ch17_Hair
+[2021.05.14-08.33.39:585][447]LogFbx: Triangulating skeletal mesh Ch17_Boots
+[2021.05.14-08.33.39:661][447]LogFbx: Triangulating skeletal mesh Ch17_Shirt
+[2021.05.14-08.33.39:727][447]LogFbx: Triangulating skeletal mesh Ch17_Body
+[2021.05.14-08.33.40:178][447]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 24
+[2021.05.14-08.33.40:178][447]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 22
+[2021.05.14-08.33.40:178][447]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 20
+[2021.05.14-08.33.40:178][447]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 18
+[2021.05.14-08.33.40:178][447]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 16
+[2021.05.14-08.33.40:178][447]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 14
+[2021.05.14-08.33.40:178][447]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 13
+[2021.05.14-08.33.40:178][447]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 12
+[2021.05.14-08.33.40:179][447]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 11
+[2021.05.14-08.33.40:179][447]LogFbx: Triangulating skeletal mesh Ch17_Helmet
+[2021.05.14-08.33.40:350][447]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 10
+[2021.05.14-08.33.40:350][447]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 9
+[2021.05.14-08.33.40:350][447]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 8
+[2021.05.14-08.33.40:350][447]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 7
+[2021.05.14-08.33.40:350][447]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 6
+[2021.05.14-08.33.40:350][447]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 5
+[2021.05.14-08.33.40:350][447]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 4
+[2021.05.14-08.33.40:350][447]LogFbx: Triangulating skeletal mesh Ch17_Eyelashes
+[2021.05.14-08.33.40:463][447]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 3
+[2021.05.14-08.33.40:463][447]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 2
+[2021.05.14-08.33.40:466][447]LogFbx: Warning: Bones digested - 53  Depth of hierarchy - 12
+[2021.05.14-08.33.40:728][447]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 1
+[2021.05.14-08.33.41:811][447]LogSkeletalMesh: Section 0: Material=0, 44726 triangles
+[2021.05.14-08.33.41:811][447]LogSkeletalMesh: Section 1: Material=1, 8998 triangles
+[2021.05.14-08.33.41:821][447]LogSkeletalMesh: Building Skeletal Mesh Worker_Mesh...
+[2021.05.14-08.33.42:923][447]LogSkeletalMesh: Section 0: Material=0, 44726 triangles
+[2021.05.14-08.33.42:923][447]LogSkeletalMesh: Section 1: Material=1, 8998 triangles
+[2021.05.14-08.33.42:989][447]LogSkeletalMesh: Built Skeletal Mesh [1.17s] /Game/Worker_Mesh.Worker_Mesh
+[2021.05.14-08.33.43:038][447]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.05.14-08.33.43:038][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.14-08.33.43:082][447]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Ch17_1002_Diffuse' was renamed 'Ch17_1002_Diffuse_ncl1_1' 
+[2021.05.14-08.33.43:194][447]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.14-08.33.46:223][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.05.14-08.33.46:225][788]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CollaborativeViewer/Maps/CollaborativeViewer_P' took 0.008
+[2021.05.14-08.33.46:225][788]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Worker_Mesh] ([1] browsable assets)...
+[2021.05.14-08.33.46:235][788]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Worker_Mesh.Worker_Mesh]
+[2021.05.14-08.33.46:235][788]OBJ SavePackage: Finished generating thumbnails for package [/Game/Worker_Mesh]
+[2021.05.14-08.33.46:235][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Worker_Mesh" FILE="D:/Unreal Engine/HajiLane/Saved/Autosaves/Game/Worker_Mesh_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2021.05.14-08.33.46:299][788]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/Worker_Mesh_Auto5B9C2A8C746B614962F769887B04E59A4.tmp' to 'D:/Unreal Engine/HajiLane/Saved/Autosaves/Game/Worker_Mesh_Auto5.uasset'
+[2021.05.14-08.33.46:300][788]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Worker_Mesh_PhysicsAsset] ([1] browsable assets)...
+[2021.05.14-08.33.46:306][788]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Worker_Mesh_PhysicsAsset.Worker_Mesh_PhysicsAsset]
+[2021.05.14-08.33.46:306][788]OBJ SavePackage: Finished generating thumbnails for package [/Game/Worker_Mesh_PhysicsAsset]
+[2021.05.14-08.33.46:306][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Worker_Mesh_PhysicsAsset" FILE="D:/Unreal Engine/HajiLane/Saved/Autosaves/Game/Worker_Mesh_PhysicsAsset_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2021.05.14-08.33.46:312][788]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/Worker_Mesh_PhysicsAsset_Auto552D62D454824FDFFF4D073902FCEE3FA.tmp' to 'D:/Unreal Engine/HajiLane/Saved/Autosaves/Game/Worker_Mesh_PhysicsAsset_Auto5.uasset'
+[2021.05.14-08.33.46:312][788]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Worker_Mesh_Skeleton] ([1] browsable assets)...
+[2021.05.14-08.33.46:312][788]OBJ SavePackage: Finished generating thumbnails for package [/Game/Worker_Mesh_Skeleton]
+[2021.05.14-08.33.46:312][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Worker_Mesh_Skeleton" FILE="D:/Unreal Engine/HajiLane/Saved/Autosaves/Game/Worker_Mesh_Skeleton_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2021.05.14-08.33.46:313][788]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/Worker_Mesh_Skeleton_Auto5784484AA4A65BB7D7DC3B2B84F29E876.tmp' to 'D:/Unreal Engine/HajiLane/Saved/Autosaves/Game/Worker_Mesh_Skeleton_Auto5.uasset'
+[2021.05.14-08.33.46:315][788]LogFileHelpers: Auto-saving content packages took 0.090
+[2021.05.14-08.33.46:488][809]LogSlate: Window 'Message Log' being destroyed
+[2021.05.14-08.33.46:493][809]LogSlate: Window 'Message Log' being destroyed
+[2021.05.14-08.34.16:733][375]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Worker_Mesh)
+[2021.05.14-08.34.17:394][454]Cmd: DELETE
+[2021.05.14-08.34.17:394][454]Cmd: ACTOR DELETE
+[2021.05.14-08.34.17:396][454]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.05.14-08.34.17:403][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.14-08.34.17:405][454]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.05.14-08.34.21:973][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.05.14-08.34.27:582][889]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.14-08.34.30:109][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.05.14-08.34.30:114][156]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/CollaborativeViewer_P7CB17DF34CDCD3488F218ABAD76F1FF0.tmp' to 'D:/Unreal Engine/HajiLane/Content/CollaborativeViewer/Maps/CollaborativeViewer_P.umap'
+[2021.05.14-08.34.30:117][156]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/CollaborativeViewer_P_BuiltData7738631949AEE1B32CE5B7A3DF3B2F6A.tmp' to 'D:/Unreal Engine/HajiLane/Content/CollaborativeViewer/Maps/CollaborativeViewer_P_BuiltData.uasset'
+[2021.05.14-08.34.30:125][156]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.14-08.34.30:125][156]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CollaborativeViewer/Maps/CollaborativeViewer_P_BuiltData.CollaborativeViewer_P_BuiltData
+[2021.05.14-08.34.30:125][156]LogContentValidation: Display: Validating World /Game/CollaborativeViewer/Maps/CollaborativeViewer_P.CollaborativeViewer_P
+[2021.05.14-08.34.36:454][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.05.14-08.34.43:710][811]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.14-08.34.48:399][194]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.05.14-08.34.48:416][194]LogContentBrowser: Creating deferred item: NewFolder
+[2021.05.14-08.34.51:552][571]LogContentBrowser: Attempting asset rename: NewFolder -> Extra
+[2021.05.14-08.34.51:553][571]LogContentBrowser: End creating deferred item NewFolder
+[2021.05.14-08.34.57:973][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Extra/Ch17_body" FILE="D:/Unreal Engine/HajiLane/Content/Extra/Ch17_body.uasset" SILENT=true
+[2021.05.14-08.34.57:977][230]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/Ch17_body0262A86945C53D57731722A1A18C5BE2.tmp' to 'D:/Unreal Engine/HajiLane/Content/Extra/Ch17_body.uasset'
+[2021.05.14-08.34.57:986][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Extra/Ch17_hair" FILE="D:/Unreal Engine/HajiLane/Content/Extra/Ch17_hair.uasset" SILENT=true
+[2021.05.14-08.34.57:989][230]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/Ch17_hair4FF845D6411AFA65C2FD01B0E6A8B585.tmp' to 'D:/Unreal Engine/HajiLane/Content/Extra/Ch17_hair.uasset'
+[2021.05.14-08.34.57:998][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Extra/Worker_Mesh" FILE="D:/Unreal Engine/HajiLane/Content/Extra/Worker_Mesh.uasset" SILENT=true
+[2021.05.14-08.34.58:060][230]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/Worker_Mesh026229B643D753C3A8F0A09EA8D22149.tmp' to 'D:/Unreal Engine/HajiLane/Content/Extra/Worker_Mesh.uasset'
+[2021.05.14-08.34.58:069][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Extra/Worker_Mesh_PhysicsAsset" FILE="D:/Unreal Engine/HajiLane/Content/Extra/Worker_Mesh_PhysicsAsset.uasset" SILENT=true
+[2021.05.14-08.34.58:075][230]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/Worker_Mesh_PhysicsAsset841D318F4F163AC345A5459885F42403.tmp' to 'D:/Unreal Engine/HajiLane/Content/Extra/Worker_Mesh_PhysicsAsset.uasset'
+[2021.05.14-08.34.58:075][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Extra/Worker_Mesh_Skeleton" FILE="D:/Unreal Engine/HajiLane/Content/Extra/Worker_Mesh_Skeleton.uasset" SILENT=true
+[2021.05.14-08.34.58:076][230]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/Worker_Mesh_SkeletonCBD3857B4289B7EA8790BBA53FBC24B2.tmp' to 'D:/Unreal Engine/HajiLane/Content/Extra/Worker_Mesh_Skeleton.uasset'
+[2021.05.14-08.34.58:155][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.14-08.34.58:162][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.14-08.34.58:167][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.05.14-08.34.58:173][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.05.14-08.34.58:179][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.05.14-08.34.58:192][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.05.14-08.34.58:198][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.05.14-08.34.58:258][230]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.14-08.34.58:258][230]LogContentValidation: Display: Validating PhysicsAsset /Game/Extra/Worker_Mesh_PhysicsAsset.Worker_Mesh_PhysicsAsset
+[2021.05.14-08.34.58:258][230]LogContentValidation: Display: Validating Skeleton /Game/Extra/Worker_Mesh_Skeleton.Worker_Mesh_Skeleton
+[2021.05.14-08.34.58:258][230]LogContentValidation: Display: Validating Material /Game/Extra/Ch17_hair.Ch17_hair
+[2021.05.14-08.34.58:258][230]LogContentValidation: Display: Validating Material /Game/Extra/Ch17_body.Ch17_body
+[2021.05.14-08.34.58:258][230]LogContentValidation: Display: Validating SkeletalMesh /Game/Extra/Worker_Mesh.Worker_Mesh
+[2021.05.14-08.44.30:289][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.05.14-08.44.30:295][974]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/CollaborativeViewer_P_Auto6CAAF63AA4665A233D5601CBB2BF73A29.tmp' to 'D:/Unreal Engine/HajiLane/Saved/Autosaves/Game/CollaborativeViewer/Maps/CollaborativeViewer_P_Auto6.umap'
+[2021.05.14-08.44.30:297][974]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CollaborativeViewer/Maps/CollaborativeViewer_P' took 0.014
+[2021.05.14-08.44.30:297][974]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.014
+[2021.05.14-08.46.50:387][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Terrain)
+[2021.05.14-08.46.58:798][396]Cmd: TRANSACTION UNDO
+[2021.05.14-08.46.58:798][396]LogEditorTransaction: Undo Move Actors
+[2021.05.14-08.46.59:335][412]Cmd: TRANSACTION UNDO
+[2021.05.14-08.46.59:335][412]LogEditorTransaction: Undo Clicking on Actors
+[2021.05.14-08.47.01:490][658]Cmd: TRANSACTION UNDO
+[2021.05.14-08.47.01:490][658]LogEditorTransaction: Undo Create Actors
+[2021.05.14-08.48.30:059][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Exterior_Walkways)
+[2021.05.14-08.48.35:079][171]Cmd: TRANSACTION UNDO
+[2021.05.14-08.48.35:079][171]LogEditorTransaction: Undo Move Actors
+[2021.05.14-08.48.35:717][193]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.14-08.48.43:661][135]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.05.14-08.48.47:177][554]Cmd: TRANSACTION UNDO
+[2021.05.14-08.48.47:177][554]LogEditorTransaction: Undo Move Actors
+[2021.05.14-08.48.49:043][723]Cmd: TRANSACTION UNDO
+[2021.05.14-08.48.49:043][723]LogEditorTransaction: Undo Move Actors
+[2021.05.14-08.48.50:686][914]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.05.14-08.48.50:687][914]Can't find target actor or component.
+[2021.05.14-08.48.51:827][ 50]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.05.14-08.48.51:827][ 50]Can't find target actor or component.
+[2021.05.14-08.48.52:552][137]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.05.14-08.48.52:552][137]Can't find target actor or component.
+[2021.05.14-08.48.53:436][242]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.05.14-08.48.53:436][242]Can't find target actor or component.
+[2021.05.14-08.48.54:832][396]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.05.14-08.49.13:656][637]Cmd: TRANSACTION UNDO
+[2021.05.14-08.49.13:656][637]LogEditorTransaction: Undo Move Actors
+[2021.05.14-08.49.23:689][722]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.14-08.54.30:756][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.05.14-08.54.30:796][220]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/SampleLevel_Auto71D193A17414F75694EE7B7A4944F9A4E.tmp' to 'D:/Unreal Engine/HajiLane/Saved/Autosaves/Game/CollaborativeViewer/SampleScene/SampleLevel_Auto7.umap'
+[2021.05.14-08.54.30:796][220]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CollaborativeViewer/Maps/CollaborativeViewer_P' took 0.049
+[2021.05.14-08.54.30:796][220]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2021.05.14-08.59.22:046][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Exterior_Walkways)
+[2021.05.14-09.35.27:978][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_1_1)
+[2021.05.14-09.35.42:417][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.05.14-09.35.42:423][ 52]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/CollaborativeViewer_P9839BECC45028E8BAA04349DA43BE5BE.tmp' to 'D:/Unreal Engine/HajiLane/Content/CollaborativeViewer/Maps/CollaborativeViewer_P.umap'
+[2021.05.14-09.35.42:426][ 52]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/CollaborativeViewer_P_BuiltDataE11993D24D025B95D0E2EDA59A7A3271.tmp' to 'D:/Unreal Engine/HajiLane/Content/CollaborativeViewer/Maps/CollaborativeViewer_P_BuiltData.uasset'
+[2021.05.14-09.35.42:433][ 52]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.14-09.35.42:433][ 52]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CollaborativeViewer/Maps/CollaborativeViewer_P_BuiltData.CollaborativeViewer_P_BuiltData
+[2021.05.14-09.35.42:433][ 52]LogContentValidation: Display: Validating World /Game/CollaborativeViewer/Maps/CollaborativeViewer_P.CollaborativeViewer_P
