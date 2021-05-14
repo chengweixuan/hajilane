@@ -2000,3 +2000,221 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.14-09.35.42:433][ 52]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.14-09.35.42:433][ 52]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CollaborativeViewer/Maps/CollaborativeViewer_P_BuiltData.CollaborativeViewer_P_BuiltData
 [2021.05.14-09.35.42:433][ 52]LogContentValidation: Display: Validating World /Game/CollaborativeViewer/Maps/CollaborativeViewer_P.CollaborativeViewer_P
+[2021.05.14-09.36.14:202][784]LogSlate: Window 'New Level' being destroyed
+[2021.05.14-09.36.17:258][784]LogSlate: Window 'Save Content' being destroyed
+[2021.05.14-09.36.20:231][963]LogSlate: Window 'New Level' being destroyed
+[2021.05.14-09.36.22:458][963]LogSlate: Window 'Save Content' being destroyed
+[2021.05.14-09.38.30:628][105]LogSlate: Window 'New Level' being destroyed
+[2021.05.14-09.38.33:856][105]LogSlate: Window 'Save Content' being destroyed
+[2021.05.14-09.38.38:731][340]LogSlate: Window 'New Level' being destroyed
+[2021.05.14-09.38.42:300][709]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.05.14-09.38.42:332][709]LogContentBrowser: Creating deferred item: NewFolder
+[2021.05.14-09.38.46:452][204]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2021.05.14-09.38.46:452][204]LogContentBrowser: End creating deferred item NewFolder
+[2021.05.14-09.38.54:885][957]LogSlate: Window 'New Level' being destroyed
+[2021.05.14-09.38.56:890][957]LogSlate: Window 'Save Content' being destroyed
+[2021.05.14-09.38.56:923][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.05.14-09.38.56:961][957]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/SampleLevelB263F188425A138628855B8547161229.tmp' to 'D:/Unreal Engine/HajiLane/Content/CollaborativeViewer/SampleScene/SampleLevel.umap'
+[2021.05.14-09.38.56:962][957]LogFileHelpers: Saving map 'SampleLevel' took 0.045
+[2021.05.14-09.38.56:971][957]LightingResults: New page: Lighting Build
+[2021.05.14-09.38.56:974][957]LogWorld: UWorld::CleanupWorld for CollaborativeViewer_P, bSessionEnded=true, bCleanupResources=true
+[2021.05.14-09.38.56:974][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.14-09.38.56:974][957]LogWorld: UWorld::CleanupWorld for SampleLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.14-09.38.56:974][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.14-09.38.56:974][957]MapCheck: New page: Map Check
+[2021.05.14-09.38.56:974][957]LightingResults: New page: Lighting Build
+[2021.05.14-09.38.56:979][957]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.14-09.38.56:982][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.05.14-09.38.56:983][957]LogAIModule: Creating AISystem for world Untitled
+[2021.05.14-09.38.56:983][957]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.14-09.38.57:020][957]LoadErrors: New page: New Map
+[2021.05.14-09.38.57:024][957]AssetCheck: New page: Asset Save: SampleLevel
+[2021.05.14-09.38.57:024][957]LogContentValidation: Display: Validating World /Game/CollaborativeViewer/SampleScene/SampleLevel.SampleLevel
+[2021.05.14-09.38.57:053][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.05.14-09.39.14:719][782]LogSlate: Window 'Save Level As' being destroyed
+[2021.05.14-09.39.14:733][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Prototype" FILE="D:/Unreal Engine/HajiLane/Content/Maps/Prototype.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.14-09.39.14:738][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.14-09.39.14:740][782]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/PrototypeAF2053764ED7400DDC330BAC9C89CA5A.tmp' to 'D:/Unreal Engine/HajiLane/Content/Maps/Prototype.umap'
+[2021.05.14-09.39.14:744][782]LogFileHelpers: Saving map 'Prototype' took 0.018
+[2021.05.14-09.39.14:747][782]AssetCheck: New page: Asset Save: Prototype
+[2021.05.14-09.39.14:747][782]LogContentValidation: Display: Validating World /Game/Maps/Prototype.Prototype
+[2021.05.14-09.39.40:441][756]MapCheck: New page: Map Check
+[2021.05.14-09.39.40:454][756]Cmd: MAP REBUILD ALLVISIBLE
+[2021.05.14-09.39.40:455][756]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.05.14-09.39.40:492][756]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=false
+[2021.05.14-09.39.40:495][756]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.05.14-09.39.40:495][756]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.05.14-09.39.40:495][756]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.05.14-09.39.40:502][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.05.14-09.39.40:507][756]LightingResults: New page: Lighting Build - May 15, 2021, 1:39:40 AM
+[2021.05.14-09.39.40:529][756]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.05.14-09.39.40:565][756]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.05.14-09.39.40:573][756]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.05.14-09.39.41:091][756]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.05.14-09.39.41:091][756]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17032
+[2021.05.14-09.39.47:908][756]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.05.14-09.39.47:908][756]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.05.14-09.39.47:908][756]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.05.14-09.39.47:908][756]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.05.14-09.39.47:908][756]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.05.14-09.39.47:908][756]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.05.14-09.39.48:012][756]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.05.14-09.39.48:012][756]MapCheck: New page: Prototype - May 15, 2021, 1:39:48 AM
+[2021.05.14-09.39.48:012][756]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.184ms to complete.
+[2021.05.14-09.39.48:014][756]LogEditorBuildUtils: Build time 0:07
+[2021.05.14-09.39.48:072][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.05.14-09.39.48:816][768]Job is a success!
+[2021.05.14-09.39.49:006][770]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2021.05.14-09.39.49:006][770]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.05.14-09.39.49:006][770]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.05.14-09.39.49:006][770]LogVolumetricLightmapImport:      Bricks at depth
+[2021.05.14-09.39.49:006][770]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2021.05.14-09.39.49:006][770]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2021.05.14-09.39.49:006][770]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.05.14-09.39.49:006][770]LogVolumetricLightmapImport:      Bricks in each level
+[2021.05.14-09.39.49:006][770]LogVolumetricLightmapImport:          Prototype 			 1 bricks 	 100.0% (Persistent Level)
+[2021.05.14-09.39.49:034][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.14-09.39.49:064][770]Lightmass on YJP-WS-0001: 656 ms total, 41 ms importing, 8 ms setup, 19 ms photons, 546 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 10.3 sec total, 0 ms processing.
+[2021.05.14-09.39.49:110][770]LogStaticLightingSystem: Illumination: 8.50 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2021.05.14-09.39.49:110][770]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.05.14-09.39.49:110][770]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.05.14-09.39.49:913][770]DumpUnbuiltLightIteractions
+[2021.05.14-09.39.49:913][770]Lights with unbuilt interactions: 0
+[2021.05.14-09.39.49:913][770]
+[2021.05.14-09.39.49:913][770]Primitives with unbuilt interactions: 0
+[2021.05.14-09.39.49:980][771]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.05.14-09.39.49:980][771]MapCheck: New page: Prototype - May 15, 2021, 1:39:49 AM
+[2021.05.14-09.39.49:980][771]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.158ms to complete.
+[2021.05.14-09.40.02:090][161]LogEditorViewport: Clicking Background
+[2021.05.14-09.40.19:089][989]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.14-09.40.26:764][908]Cmd: TRANSACTION UNDO
+[2021.05.14-09.40.26:764][908]LogEditorTransaction: Undo Create Actors
+[2021.05.14-09.41.27:941][695]LogActorFactory: Actor Factory created Shape_Cube
+[2021.05.14-09.41.28:415][751]LogActorFactory: Actor Factory created Shape_Cube
+[2021.05.14-09.41.51:530][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube)
+[2021.05.14-09.42.08:274][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube)
+[2021.05.14-09.42.10:825][830]LogEditorViewport: Clicking Background
+[2021.05.14-09.42.28:206][816]MapCheck: New page: Map Check
+[2021.05.14-09.42.28:212][816]LightingResults: New page: Lighting Build - May 15, 2021, 1:42:28 AM
+[2021.05.14-09.42.28:215][816]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.05.14-09.42.28:217][816]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.05.14-09.42.28:217][816]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.05.14-09.42.28:218][816]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.05.14-09.42.28:218][816]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17032
+[2021.05.14-09.42.32:805][816]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.05.14-09.42.32:805][816]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.05.14-09.42.32:806][816]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.05.14-09.42.32:806][816]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.05.14-09.42.32:806][816]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.05.14-09.42.32:806][816]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.05.14-09.42.32:840][816]LogEditorBuildUtils: Build time 0:04
+[2021.05.14-09.42.32:844][816]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2021.05.14-09.42.32:846][816]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2021.05.14-09.42.33:202][816]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 4
+[2021.05.14-09.42.33:202][816]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 3
+[2021.05.14-09.42.33:202][816]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 2
+[2021.05.14-09.42.33:202][816]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 1
+[2021.05.14-09.42.33:313][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.05.14-09.42.34:787][851]Job is a success!
+[2021.05.14-09.42.34:960][852]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2021.05.14-09.42.34:960][852]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.05.14-09.42.34:960][852]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.05.14-09.42.34:960][852]LogVolumetricLightmapImport:      Bricks at depth
+[2021.05.14-09.42.34:960][852]LogVolumetricLightmapImport:          0: 9.1% covering 100.0% of volume
+[2021.05.14-09.42.34:960][852]LogVolumetricLightmapImport:          1: 9.1% covering 1.6% of volume
+[2021.05.14-09.42.34:960][852]LogVolumetricLightmapImport:          2: 81.8% covering 0.2% of volume
+[2021.05.14-09.42.34:960][852]LogVolumetricLightmapImport:      Bricks in each level
+[2021.05.14-09.42.34:960][852]LogVolumetricLightmapImport:          Prototype 			 11 bricks 	 100.0% (Persistent Level)
+[2021.05.14-09.42.34:969][852]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 64X64)
+[2021.05.14-09.42.34:969][852]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 64X64)
+[2021.05.14-09.42.34:969][852]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 32X32)
+[2021.05.14-09.42.34:982][852]Lightmass on YJP-WS-0001: 628 ms total, 43 ms importing, 8 ms setup, 27 ms photons, 521 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 9.89 sec total, 5 ms processing.
+[2021.05.14-09.42.34:982][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.05.14-09.42.35:056][852]LogStaticLightingSystem: Illumination: 6.74 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2021.05.14-09.42.35:056][852]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.05.14-09.42.35:056][852]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2021.05.14-09.42.35:811][852]DumpUnbuiltLightIteractions
+[2021.05.14-09.42.35:811][852]Lights with unbuilt interactions: 0
+[2021.05.14-09.42.35:811][852]
+[2021.05.14-09.42.35:811][852]Primitives with unbuilt interactions: 0
+[2021.05.14-09.42.35:879][853]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.05.14-09.42.35:879][853]MapCheck: New page: Prototype - May 15, 2021, 1:42:35 AM
+[2021.05.14-09.42.35:880][853]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.192ms to complete.
+[2021.05.14-09.42.43:653][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube)
+[2021.05.14-09.42.54:882][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube)
+[2021.05.14-09.42.55:806][144]LogEditorViewport: Clicking Background
+[2021.05.14-09.43.11:926][990]LogEditorViewport: Clicking Background
+[2021.05.14-09.43.20:818][906]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.14-09.43.22:253][ 76]Cmd: TRANSACTION UNDO
+[2021.05.14-09.43.22:253][ 76]LogEditorTransaction: Undo Brush Add
+[2021.05.14-09.43.23:980][197]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.14-09.43.31:151][ 49]Cmd: DELETE
+[2021.05.14-09.43.31:151][ 49]Cmd: ACTOR DELETE
+[2021.05.14-09.43.31:152][ 49]LogEditorActor: Deleted Actor: Brush
+[2021.05.14-09.43.31:158][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.05.14-09.43.31:160][ 49]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.05.14-09.43.32:928][242]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.14-09.46.09:427][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube)
+[2021.05.14-09.46.30:412][335]Cmd: POLY SELECT MATCHING BRUSH
+[2021.05.14-09.46.38:952][277]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.14-09.46.40:383][447]Cmd: TRANSACTION UNDO
+[2021.05.14-09.46.40:383][447]LogEditorTransaction: Undo Brush Add
+[2021.05.14-09.46.40:384][447]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Prototype.Prototype:PersistentLevel.ModelComponent_6' invalid (24 verts, 0 indices).
+[2021.05.14-09.46.40:384][447]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Prototype.Prototype:PersistentLevel.ModelComponent_6.BodySetup_0 when we are unable to.
+[2021.05.14-09.46.44:647][831]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.14-09.47.23:760][195]LogSlate: Window 'Select Path' being destroyed
+[2021.05.14-09.47.23:823][195]LogStaticMesh: Building static mesh funnybox...
+[2021.05.14-09.47.23:825][195]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/funnybox.funnybox
+[2021.05.14-09.47.23:826][195]LogActorFactory: Actor Factory created funnybox
+[2021.05.14-09.47.23:838][195]LogEditor: Error: Actor 'Brush /Game/Maps/Prototype.Prototype:PersistentLevel.BoxBrush_4' is marked pending kill and cannot be converted
+[2021.05.14-09.47.23:838][195]EditorErrors: New page: Actor Reattachment
+[2021.05.14-09.47.23:844][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.05.14-09.47.30:131][912]Cmd: TRANSACTION UNDO
+[2021.05.14-09.47.30:131][912]LogEditorTransaction: Undo Move Actors
+[2021.05.14-09.47.30:562][924]Cmd: TRANSACTION UNDO
+[2021.05.14-09.47.30:562][924]LogEditorTransaction: Undo Convert Actors
+[2021.05.14-09.47.31:152][969]Cmd: TRANSACTION UNDO
+[2021.05.14-09.47.31:152][969]LogEditorTransaction: Undo Select Brush Surface
+[2021.05.14-09.47.31:777][ 26]Cmd: TRANSACTION UNDO
+[2021.05.14-09.47.31:777][ 26]LogEditorTransaction: Undo Move Actors
+[2021.05.14-09.47.41:226][151]LogEditorViewport: Clicking Background
+[2021.05.14-09.49.06:524][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.05.14-09.49.06:526][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Prototype" FILE="D:/Unreal Engine/HajiLane/Saved/Autosaves/Game/Maps/Prototype_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.05.14-09.49.06:529][937]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/Prototype_Auto832E4B0EB4314B8515287EBA0F463FD56.tmp' to 'D:/Unreal Engine/HajiLane/Saved/Autosaves/Game/Maps/Prototype_Auto8.umap'
+[2021.05.14-09.49.06:529][937]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Prototype' took 0.011
+[2021.05.14-09.49.06:529][937]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.011
+[2021.05.14-09.49.45:151][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube)
+[2021.05.14-09.50.11:029][103]Cmd: TRANSACTION UNDO
+[2021.05.14-09.50.11:029][103]LogEditorTransaction: Undo Scale Actors
+[2021.05.14-09.50.11:957][155]Cmd: TRANSACTION UNDO
+[2021.05.14-09.50.11:957][155]LogEditorTransaction: Undo Move Actors
+[2021.05.14-09.50.12:382][190]Cmd: TRANSACTION UNDO
+[2021.05.14-09.50.12:382][190]LogEditorTransaction: Undo Create Actors
+[2021.05.14-09.55.33:255][192]LogEditorViewport: Clicking Background
+[2021.05.14-09.55.45:079][463]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.05.14-09.56.26:766][410]Cmd: ACTOR ALIGN VERTS
+[2021.05.14-09.56.30:233][805]Cmd: TRANSACTION UNDO
+[2021.05.14-09.56.30:233][805]LogEditorTransaction: Undo Snap Brush Vertices
+[2021.05.14-09.56.55:760][648]Cmd: TRANSACTION UNDO
+[2021.05.14-09.56.55:760][648]LogEditorTransaction: Undo Move Actors
+[2021.05.14-09.56.55:762][648]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.05.14-09.56.55:762][648]LogGeometryMode: Warning: Unable to resolve BoxBrush3 Brush in new BSP, see above
+[2021.05.14-09.56.55:762][648]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.14-09.57.04:303][596]Cmd: TRANSACTION UNDO
+[2021.05.14-09.57.04:303][596]LogEditorTransaction: Undo Move Actors
+[2021.05.14-09.57.04:306][596]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.05.14-09.57.04:306][596]LogGeometryMode: Warning: Unable to resolve BoxBrush3 Brush in new BSP, see above
+[2021.05.14-09.57.04:306][596]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.05.14-09.59.07:094][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.05.14-09.59.07:097][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Prototype" FILE="D:/Unreal Engine/HajiLane/Saved/Autosaves/Game/Maps/Prototype_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.05.14-09.59.07:100][640]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/Prototype_Auto93355F6D64A31EFD93C176BA810ECFDEB.tmp' to 'D:/Unreal Engine/HajiLane/Saved/Autosaves/Game/Maps/Prototype_Auto9.umap'
+[2021.05.14-09.59.07:101][640]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Prototype' took 0.014
+[2021.05.14-09.59.07:101][640]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.014
+[2021.05.14-09.59.46:968][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Prototype" FILE="D:/Unreal Engine/HajiLane/Content/Maps/Prototype.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.14-09.59.46:975][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.05.14-09.59.46:980][ 53]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/PrototypeA6E5CAF94F67A55100E2A8AB4938CD45.tmp' to 'D:/Unreal Engine/HajiLane/Content/Maps/Prototype.umap'
+[2021.05.14-09.59.46:983][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Prototype_BuiltData" FILE="D:/Unreal Engine/HajiLane/Content/Maps/Prototype_BuiltData.uasset" SILENT=true
+[2021.05.14-09.59.46:985][ 53]LogSavePackage: Moving 'D:/Unreal Engine/HajiLane/Saved/Prototype_BuiltDataF6935F244C145A07FE89C7AF2B32148F.tmp' to 'D:/Unreal Engine/HajiLane/Content/Maps/Prototype_BuiltData.uasset'
+[2021.05.14-09.59.46:991][ 53]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.14-09.59.46:991][ 53]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Prototype_BuiltData.Prototype_BuiltData
+[2021.05.14-09.59.46:991][ 53]LogContentValidation: Display: Validating World /Game/Maps/Prototype.Prototype
